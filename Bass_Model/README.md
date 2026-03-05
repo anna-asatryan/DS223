@@ -78,7 +78,7 @@ Annual shipments are used as a proxy for the number of adopters per period.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DS223.git
+git clone https://github.com/anna-asatryan/DS223.git
 cd DS223
 ```
 

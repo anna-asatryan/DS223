@@ -13,7 +13,7 @@ from helper_functions import bass_model, peak_adoption_time
 def main():
 
     # Load dataset
-    data = pd.read_csv("data/apple_watch_sales.csv")
+    data = pd.read_csv("Bass_Model/data/apple_watch_sales.csv")
 
     # Time index
     t = np.arange(1, len(data) + 1)
