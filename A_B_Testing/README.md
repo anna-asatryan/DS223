@@ -130,6 +130,7 @@ Finally, the current implementation assumes immediate feedback after every actio
 
 
 Overall, these improvements extend the experiment from a clean theoretical setup to something that better reflects real-world conditions. Instead of only asking which algorithm performs best under ideal assumptions, the focus shifts to how different approaches behave under uncertainty, changing environments, and practical limitations.
+
 ---
 
 ## Course
