@@ -114,14 +114,22 @@ A_B_Testing/bandit_rewards.csv
 
 ## Bonus: Better Implementation Plan
 
-1. **UCB1 (Upper Confidence Bound)** — a deterministic, parameter-free alternative that achieves logarithmic regret without tuning ε or a prior. Adding UCB1 as a third baseline would strengthen the comparison.
+The current setup works well for demonstrating the core ideas behind bandit algorithms, but it is still quite simplified compared to real-world A/B testing systems. There are a few extensions that would make the experiment both more robust and more realistic.
 
-2. **Sliding-window or discounted estimators** — in real ad campaigns, reward distributions shift over time (non-stationary). Replacing the global mean with an exponentially-weighted moving average makes both algorithms robust to drift.
 
-3. **Contextual bandits (LinUCB)** — incorporating user context features (demographics, device, time-of-day) via a contextual bandit turns the experiment into a personalised ad-serving system, closer to production A/B testing at scale.
+First, it would be useful to include UCB1 as an additional baseline. Right now, both Epsilon-Greedy and Thompson Sampling rely on choices that introduce some subjectivity, such as the decay rate of epsilon or the prior assumptions in Thompson Sampling. UCB1 avoids this entirely by using a deterministic rule that balances exploration and exploitation through a confidence bound. Because it does not require tuning or prior assumptions and still achieves strong theoretical performance, it serves as a clean benchmark. Including it would make the comparison more balanced and less dependent on parameter choices.
 
-4. **Batched / delayed feedback** — real systems do not update after every impression. Simulating batch updates (e.g., every 100 trials) and measuring the regret penalty would surface a practical deployment concern that pure sequential simulation misses.
 
+Second, the current model assumes that reward distributions stay constant over time. In practice, this is rarely true. User behavior changes, ads lose effectiveness, and external factors shift outcomes. To account for this, the model could be extended using either a sliding window or a discounted average, where recent observations are weighted more heavily than older ones. This allows the algorithm to adapt to changes instead of relying on outdated information. Without this adjustment, even well-performing algorithms can degrade over time in non-stationary environments.
+
+
+Another important extension is to move toward contextual bandits. At the moment, the model treats all users as identical, which is a strong limitation. In real advertising systems, decisions depend heavily on user-specific information such as device type, time of day, or demographics. By incorporating context into the decision process, for example through a method like LinUCB, the system can learn not just which ad is best overall, but which ad is best for a particular type of user. This shifts the problem from general optimization to personalized decision-making, which is much closer to how modern systems operate.
+
+
+Finally, the current implementation assumes immediate feedback after every action, which is also unrealistic. In practice, data is often collected and processed in batches, and conversions can be delayed. Simulating batched updates, where the model is only updated after a fixed number of trials, would introduce this constraint. It would also highlight an important trade-off: delayed updates slow down learning and can increase regret. Understanding this effect is important for evaluating how these algorithms perform in deployment settings.
+
+
+Overall, these improvements extend the experiment from a clean theoretical setup to something that better reflects real-world conditions. Instead of only asking which algorithm performs best under ideal assumptions, the focus shifts to how different approaches behave under uncertainty, changing environments, and practical limitations.
 ---
 
 ## Course
