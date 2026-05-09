@@ -1,2 +1,2 @@
 n_customers,at_risk_threshold_12m,n_at_risk_customers,share_at_risk,expected_clv_at_risk,recommended_annual_retention_budget,retention_spend_share_of_expected_clv_at_risk
-1000,0.4,18,0.018,3713.0283671170564,928.2570917792641,0.25
+1000,0.15,305,0.305,46004.04070733763,11501.010176834407,0.25

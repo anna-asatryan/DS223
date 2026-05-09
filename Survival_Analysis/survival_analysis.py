@@ -53,7 +53,7 @@ MONTHLY_MARGIN = 30.0
 ANNUAL_DISCOUNT_RATE = 0.10
 CLV_HORIZON_MONTHS = 36
 AT_RISK_HORIZON_MONTHS = 12
-AT_RISK_THRESHOLD = 0.40
+AT_RISK_THRESHOLD = 0.15
 RETENTION_SPEND_SHARE = 0.25
 
 RANDOM_SEED = 42
@@ -121,7 +121,7 @@ def normalize_churn_column(df: pd.DataFrame) -> pd.DataFrame:
 
     df[EVENT_COL] = pd.to_numeric(df[EVENT_COL], errors="coerce")
 
-    if df[EVENT_COL].isna().any:
+    if df[EVENT_COL].isna().any():
         bad = df[df[EVENT_COL].isna()]
         if len(bad) > 0:
             raise ValueError("Some churn values could not be converted to 0/1.")
@@ -274,18 +274,6 @@ def fit_aft_models(model_df: pd.DataFrame) -> Tuple[Dict[str, object], pd.DataFr
             bic = -2 * log_lik + k * np.log(n)
 
             fitted_models[name] = model
-
-            # rows.append(
-            #     {
-            #         "model": name,
-            #         "n_parameters": np.nan,
-            #         "log_likelihood": np.nan,
-            #         "AIC": np.nan,
-            #         "BIC": np.nan,
-            #         "concordance_index": np.nan,
-            #         "status": "failed to converge",
-            #     }
-            # )
 
             rows.append(
                 {
@@ -859,15 +847,28 @@ The fitted AFT models were compared using log-likelihood, AIC, BIC, and concorda
 
 {comparison_md}
 
-The selected decision model is **{selected_model_name}**. I selected this model using AIC with a parsimony rule: if several models were within 2 AIC points, I preferred the simpler and more interpretable model. This is appropriate for a decision-maker because retention decisions require not only statistical fit, but also interpretability, stability, and ease of explanation.
+> **Note on Generalized Gamma Regression:** This model was attempted as the most flexible parametric benchmark, but it did not converge reliably even with penalization. Because unstable convergence can make coefficients and predictions unreliable, I excluded it from final decision-making instead of forcing the model.
+
+The selected decision model is **{selected_model_name}**. It was selected because it had the lowest AIC and BIC among the converged models, The concordance index difference vs. the next-best alternative was negligible (< 0.0001), confirming the distributions perform equivalently on this data. For a decision-maker, interpretability and stability matter alongside statistical fit, which further supports choosing the simpler distribution when fit differences are negligible.
+
+I focused on the standard AFT-style parametric regression models available in lifelines. Piecewise exponential regression was not included because it requires externally specified breakpoints rather than a single distributional AFT form, which makes it a different modeling approach rather than an additional AFT distribution.
+
+![Average AFT Survival Curves](../img/aft_survival_curves.png)
 
 ## Significant features and interpretation
 
 {feature_text}
 
-In an AFT model, a positive coefficient means the feature is associated with longer survival time, while a negative coefficient means shorter survival time and faster churn. The exponentiated coefficient is a time ratio: values above 1 increase expected survival time, and values below 1 reduce expected survival time.
+In an AFT model, a positive coefficient means the feature is associated with longer survival time, while a negative coefficient means shorter survival time and faster churn. The exponentiated coefficient is a time ratio: values above 1 increase expected survival time, and values below 1 reduce it.
 
 {coef_md}
+
+**Coefficient notes:**
+- **custcat (E-service, Plus service, Total service):** All three service tiers show substantially longer survival vs. the Basic service baseline. This is the strongest driver of retention — customers on richer plans stay longer.
+- **internet_Yes:** Negative coefficient (time ratio ≈ 0.43). Internet subscribers churn faster. This may reflect that internet-only or internet-primary subscribers have more competitive alternatives (broadband market) and lower switching costs than multi-service bundles.
+- **voice_Yes:** Also negative (time ratio ≈ 0.63). Counterintuitively, voice service is associated with faster churn. This may reflect plan structure, customer type, or lower switching costs among voice-service users. I interpret this as an association, not a causal effect.
+- **marital_Unmarried:** Unmarried subscribers churn faster. More mobile lifestyle and fewer household-level switching costs.
+- **age and address:** Both positive. Older subscribers and those with longer residential stability churn more slowly — consistent with lower mobility and higher inertia.
 
 ## CLV and valuable segments
 
@@ -877,9 +878,13 @@ The most valuable segments are defined as groups with high average 36-month CLV 
 
 {best_segments_md}
 
+![CLV by Segment](../img/clv_by_segment.png)
+
 The riskiest segments by predicted 12-month churn risk are:
 
 {risky_segments_md}
+
+![Churn Risk by Segment](../img/risk_by_segment.png)
 
 ## Annual retention budget
 
