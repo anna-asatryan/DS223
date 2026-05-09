@@ -1,0 +1,9 @@
+param,covariate,coef,time_ratio_exp_coef,p,direction
+mu_,internet_Yes,-0.8405283081235707,0.4314825074891613,1.2065928186111586e-09,shorter survival / higher churn speed
+mu_,custcat_E-service,1.0258247345113207,2.7893950225122293,1.2927523399218817e-09,longer survival / lower churn speed
+mu_,age,0.03682567520229218,1.0375121409785972,8.695261392831444e-09,longer survival / lower churn speed
+mu_,custcat_Plus service,0.8225527815489974,2.2763033319998254,1.2041128734736638e-06,longer survival / lower churn speed
+mu_,address,0.04282392787218738,1.0437541026649775,1.296477674800991e-06,longer survival / lower churn speed
+mu_,custcat_Total service,1.0132687608807815,2.7545904122999723,1.3329237765578854e-06,longer survival / lower churn speed
+mu_,marital_Unmarried,-0.4473173831768448,0.6393409600053478,9.31966490287764e-05,shorter survival / higher churn speed
+mu_,voice_Yes,-0.4634934316822515,0.6290821468507374,0.005448946609291855,shorter survival / higher churn speed

@@ -1,0 +1,1001 @@
+ID,tenure,predicted_survival_12m,predicted_churn_risk_12m,clv_36m,at_risk_12m,region,marital,ed,retire,gender,voice,internet,forward,custcat
+1,13,0.9019515930972246,0.09804840690277539,802.9608036856234,0,Zone 2,Married,College degree,No,Male,No,No,Yes,Basic service
+2,11,0.9091869519669619,0.09081304803303814,810.554982297409,0,Zone 3,Married,Post-undergraduate degree,No,Male,Yes,No,Yes,Total service
+3,68,0.9833058791394089,0.016694120860591077,906.8349677693806,0,Zone 3,Married,Did not complete high school,No,Female,No,No,No,Plus service
+4,33,0.844946818545614,0.15505318145438596,741.0151546736057,0,Zone 2,Unmarried,High school degree,No,Female,No,No,No,Basic service
+5,23,0.9261381680399948,0.07386183196000518,833.2038685212223,0,Zone 2,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+6,41,0.9408408271035025,0.059159172896497525,852.1917437824188,0,Zone 2,Unmarried,High school degree,No,Female,No,No,No,Plus service
+7,45,0.8440357199037151,0.15596428009628494,739.6627509721542,0,Zone 3,Married,High school degree,No,Female,No,Yes,No,E-service
+8,38,0.80664008240026,0.19335991759974003,699.4225061393344,0,Zone 2,Unmarried,High school degree,No,Male,Yes,Yes,Yes,Total service
+9,45,0.9728752901926091,0.0271247098073909,892.7242405330783,0,Zone 3,Married,College degree,No,Male,No,No,Yes,Plus service
+10,68,0.9755504372343664,0.024449562765633592,896.6421940342204,0,Zone 1,Married,Did not complete high school,No,Male,No,No,No,E-service
+11,5,0.6210647643565098,0.3789352356434902,524.8371520348595,0,Zone 2,Unmarried,College degree,No,Female,No,Yes,No,Basic service
+12,7,0.884402930477579,0.11559706952242099,780.2803487047213,0,Zone 3,Unmarried,High school degree,No,Female,Yes,No,Yes,Plus service
+13,41,0.8900709682253232,0.10992903177467683,791.7731701421033,0,Zone 1,Married,High school degree,No,Female,No,No,No,Basic service
+14,57,0.9613713380239148,0.038628661976085166,878.2372889028413,0,Zone 2,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+15,9,0.8239435234574886,0.17605647654251144,716.7784301320678,0,Zone 2,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+16,29,0.9107378509779963,0.08926214902200369,815.4974662543124,0,Zone 1,Married,Post-undergraduate degree,No,Male,No,Yes,No,E-service
+17,60,0.98973798214647,0.010262017853529981,915.3594863042744,0,Zone 3,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+18,34,0.9240285919860242,0.07597140801397584,831.5209679924684,0,Zone 3,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+19,1,0.6630107273665236,0.33698927263347644,559.4977149363527,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+20,26,0.795040309100961,0.20495969089903898,687.9706072913251,0,Zone 1,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+21,6,0.784349131986976,0.21565086801302402,675.4278231117936,0,Zone 3,Unmarried,Some college,No,Female,No,Yes,No,E-service
+22,68,0.9486770909093049,0.051322909090695146,862.3821255531924,0,Zone 1,Married,Did not complete high school,No,Male,No,No,Yes,Basic service
+23,53,0.8412730317846572,0.15872696821534282,736.303049208242,0,Zone 3,Unmarried,Post-undergraduate degree,No,Female,Yes,Yes,Yes,Total service
+24,55,0.9443944670802467,0.05560553291975334,856.9032314169442,0,Zone 3,Married,Did not complete high school,No,Male,No,No,No,Basic service
+25,14,0.9778296318556132,0.022170368144386776,896.6301754478485,0,Zone 3,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+26,1,0.8025397940966187,0.19746020590338131,686.8377245827309,0,Zone 2,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+27,42,0.8362757529450552,0.16372424705494482,731.2250965181028,0,Zone 2,Unmarried,High school degree,No,Female,Yes,Yes,No,Total service
+28,25,0.9392722767839132,0.06072772321608677,849.2836077343893,0,Zone 3,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+29,9,0.7321282204509453,0.2678717795490547,625.7390988159657,0,Zone 1,Married,High school degree,No,Female,No,No,No,Basic service
+30,13,0.8784373232809644,0.12156267671903564,776.4591043138241,0,Zone 2,Married,College degree,No,Female,No,Yes,No,E-service
+31,56,0.9030732004155282,0.09692679958447181,806.9585641567634,0,Zone 1,Married,Did not complete high school,No,Female,No,Yes,No,E-service
+32,71,0.9557975492037871,0.04420245079621288,871.3536246077267,0,Zone 1,Married,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+33,35,0.9868508693319201,0.013149130668079878,910.9098439957232,0,Zone 1,Married,High school degree,No,Female,No,No,Yes,Plus service
+34,11,0.8455940040193413,0.15440599598065874,740.1822731522227,0,Zone 1,Married,Post-undergraduate degree,No,Male,No,Yes,No,E-service
+35,60,0.9138388632028898,0.08616113679711024,819.751015803238,0,Zone 2,Married,Some college,No,Male,Yes,Yes,Yes,Total service
+36,20,0.8956017405140507,0.10439825948594927,797.1504534966953,0,Zone 3,Married,College degree,No,Male,No,Yes,No,E-service
+37,54,0.9656415177001932,0.03435848229980676,883.6264933826733,0,Zone 2,Unmarried,College degree,No,Male,Yes,Yes,No,Total service
+38,44,0.9390728220728807,0.060927177927119325,850.1133057601282,0,Zone 1,Married,High school degree,No,Male,Yes,No,Yes,Plus service
+39,11,0.888426678366844,0.11157332163315603,786.9327433843115,0,Zone 1,Married,Did not complete high school,No,Female,Yes,No,Yes,Plus service
+40,72,0.9862359293497059,0.013764070650294058,910.7729948105643,0,Zone 2,Unmarried,High school degree,Yes,Female,No,No,Yes,Plus service
+41,10,0.9217257302496785,0.07827426975032148,824.7369504921817,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+42,15,0.8336804701944937,0.16631952980550635,728.3676600677828,0,Zone 2,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+43,27,0.8284262065192474,0.17157379348075263,723.1989871647103,0,Zone 2,Married,High school degree,No,Male,No,No,No,Basic service
+44,9,0.8607442304869567,0.1392557695130433,755.6359723969226,0,Zone 1,Married,College degree,No,Male,Yes,Yes,No,Total service
+45,64,0.9707633486543861,0.02923665134561393,890.3795111276045,0,Zone 1,Married,College degree,No,Female,No,No,No,Plus service
+46,65,0.8823538240851625,0.1176461759148375,782.6043477447705,0,Zone 1,Married,College degree,No,Male,Yes,Yes,No,E-service
+47,49,0.9700578211777676,0.02994217882223238,889.1875475028213,0,Zone 1,Married,College degree,No,Male,No,Yes,No,E-service
+48,47,0.8899267100436801,0.11007328995631993,791.6054658927117,0,Zone 3,Married,College degree,No,Male,No,Yes,No,Total service
+49,9,0.8611413147086635,0.1388586852913365,756.0642303619138,0,Zone 3,Married,High school degree,No,Female,No,No,No,Basic service
+50,5,0.839633028553329,0.160366971446671,730.5726307211761,0,Zone 1,Unmarried,High school degree,No,Female,No,Yes,Yes,Plus service
+51,30,0.7707778660989145,0.22922213390108548,662.6427051067335,0,Zone 2,Married,High school degree,No,Male,No,Yes,No,Basic service
+52,56,0.9905776169034043,0.00942238309659571,916.4519435083437,0,Zone 1,Married,High school degree,No,Male,No,No,No,E-service
+53,10,0.6054685860216324,0.39453141397836755,510.37563405029175,0,Zone 3,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+54,7,0.77504487909529,0.22495512090471004,666.7520016842394,0,Zone 1,Married,High school degree,No,Male,No,No,No,Basic service
+55,52,0.832671765093191,0.16732823490680904,726.841679936172,0,Zone 1,Unmarried,Some college,No,Male,No,No,No,Basic service
+56,36,0.811325815167571,0.18867418483242904,704.5335886094526,0,Zone 2,Married,High school degree,No,Female,No,Yes,No,Basic service
+57,27,0.9159314237120223,0.0840685762879777,821.4737116545357,0,Zone 3,Unmarried,Some college,No,Female,No,No,No,E-service
+58,58,0.9851478730467023,0.01485212695329774,909.1598313167452,0,Zone 1,Married,Did not complete high school,No,Male,No,No,No,Basic service
+59,41,0.9779358236082305,0.022064176391769497,899.2102612270173,0,Zone 2,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+60,47,0.9310006325011347,0.06899936749886526,840.329263413304,0,Zone 2,Married,College degree,No,Female,No,Yes,No,E-service
+61,55,0.9374882574062596,0.06251174259374037,848.3824708643969,0,Zone 2,Married,High school degree,No,Female,Yes,No,Yes,Plus service
+62,56,0.9374854765452199,0.06251452345478015,848.391685857431,0,Zone 2,Married,High school degree,No,Female,Yes,No,Yes,Total service
+63,35,0.9442379113103503,0.055762088689649714,856.1185091442287,0,Zone 3,Unmarried,High school degree,No,Male,No,No,No,Basic service
+64,69,0.9437432850704395,0.056256714929560525,856.2407459274197,0,Zone 2,Married,College degree,No,Female,No,Yes,No,Total service
+65,44,0.8992475944777062,0.10075240552229381,802.4559539891371,0,Zone 2,Unmarried,High school degree,No,Male,No,Yes,Yes,Total service
+66,36,0.9333912912210255,0.06660870877897451,842.8996921566282,0,Zone 3,Married,Did not complete high school,No,Male,No,No,No,Basic service
+67,28,0.9854047069058661,0.014595293094133877,908.6056755001347,0,Zone 3,Married,Some college,No,Female,No,No,Yes,Plus service
+68,72,0.9980882776020162,0.0019117223979837616,926.9652520054813,0,Zone 1,Married,Did not complete high school,Yes,Male,No,No,Yes,Plus service
+69,16,0.7486259863817404,0.2513740136182596,641.67197599864,0,Zone 1,Unmarried,Some college,No,Male,No,No,No,Basic service
+70,3,0.7812374478052269,0.21876255219477314,669.8575239562285,0,Zone 3,Unmarried,College degree,No,Female,No,Yes,No,Basic service
+71,40,0.9511289292804379,0.04887107071956209,864.8905023744118,0,Zone 1,Married,High school degree,No,Male,No,No,No,Basic service
+72,16,0.8379195064584557,0.1620804935415443,732.9969741441197,0,Zone 3,Unmarried,College degree,No,Female,No,Yes,No,E-service
+73,20,0.824325009379847,0.17567499062015302,718.8201525428483,0,Zone 1,Unmarried,Some college,No,Male,No,No,No,Basic service
+74,48,0.8720707334716357,0.12792926652836434,771.0703156206371,0,Zone 2,Unmarried,Post-undergraduate degree,No,Female,Yes,Yes,No,E-service
+75,64,0.9671221874155587,0.032877812584441335,885.6904558036047,0,Zone 2,Married,High school degree,No,Male,No,No,Yes,Plus service
+76,8,0.6762296028544079,0.3237703971455921,573.6852065291768,0,Zone 1,Unmarried,High school degree,No,Male,No,Yes,No,Basic service
+77,40,0.94659207572119,0.053407924278810026,859.2505966838434,0,Zone 1,Married,Some college,No,Male,No,No,Yes,Plus service
+78,38,0.9746910002507068,0.025308999749293237,894.8400568268888,0,Zone 2,Unmarried,High school degree,Yes,Male,No,No,No,Basic service
+79,67,0.9800720615011311,0.01992793849886887,902.5520992222503,0,Zone 1,Unmarried,Did not complete high school,No,Female,Yes,No,Yes,Plus service
+80,26,0.7843845478240904,0.2156154521759096,676.9437005222247,0,Zone 1,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+81,41,0.8798677965620417,0.12013220343795827,780.0446772531217,0,Zone 3,Married,Post-undergraduate degree,No,Female,Yes,Yes,Yes,Total service
+82,2,0.7118497649831657,0.28815023501683434,603.8069212349546,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+83,20,0.9858193502998768,0.014180649700123227,908.5451689939465,0,Zone 3,Married,High school degree,No,Male,Yes,No,Yes,Total service
+84,31,0.9328263200474507,0.0671736799525493,841.9479227914743,0,Zone 2,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+85,45,0.9264575753314378,0.0735424246685622,834.7874752627229,0,Zone 2,Married,College degree,No,Female,No,Yes,No,E-service
+86,33,0.8460538359988712,0.15394616400112882,742.2305475302581,0,Zone 2,Married,High school degree,No,Male,No,No,No,Basic service
+87,10,0.8802024484337265,0.11979755156627347,777.3531369190008,0,Zone 1,Unmarried,Some college,No,Male,No,No,No,E-service
+88,62,0.9049191998124079,0.09508080018759213,809.1171138169857,0,Zone 2,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+89,4,0.8031009306244681,0.19689906937553192,692.4393536584013,0,Zone 2,Unmarried,Post-undergraduate degree,No,Female,Yes,Yes,Yes,Total service
+90,42,0.972772568495925,0.027227431504075028,892.4935405024578,0,Zone 1,Married,College degree,No,Male,No,No,Yes,Plus service
+91,27,0.9173281790018543,0.08267182099814574,823.1238627368459,0,Zone 3,Married,Post-undergraduate degree,No,Male,No,Yes,No,E-service
+92,38,0.8395542967325751,0.1604457032674249,734.9663911269478,0,Zone 2,Unmarried,College degree,No,Female,No,No,No,Basic service
+93,52,0.9184477416109835,0.08155225838901647,825.2457133361802,0,Zone 3,Married,Post-undergraduate degree,No,Female,Yes,Yes,No,E-service
+94,35,0.809710647045709,0.19028935295429095,702.871040232024,0,Zone 3,Unmarried,Post-undergraduate degree,No,Female,Yes,Yes,Yes,Total service
+95,3,0.7097997311280955,0.29020026887190453,602.9062964604914,0,Zone 3,Married,High school degree,No,Female,No,No,No,Basic service
+96,17,0.7659323841288912,0.2340676158711088,658.77469385739,0,Zone 2,Unmarried,Post-undergraduate degree,No,Male,Yes,Yes,No,Total service
+97,55,0.9821964715940436,0.017803528405956448,905.1848917264514,0,Zone 1,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+98,43,0.9423818309152941,0.05761816908470585,854.1523090676673,0,Zone 3,Married,Did not complete high school,No,Female,No,No,No,E-service
+99,47,0.9080093104256677,0.09199068957433232,812.7782879117611,0,Zone 2,Married,Did not complete high school,No,Female,No,No,Yes,Plus service
+100,65,0.9878049701824687,0.012195029817531289,912.8065608827301,0,Zone 3,Unmarried,High school degree,No,Female,No,No,No,E-service
+101,13,0.697640385364161,0.30235961463583905,593.0105081178775,0,Zone 1,Unmarried,Some college,No,Male,No,Yes,Yes,Total service
+102,64,0.9130398905229131,0.08696010947708688,818.7886192354517,0,Zone 3,Married,Some college,No,Female,No,No,Yes,Plus service
+103,12,0.8220119175219606,0.17798808247803943,715.6199255759358,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+104,29,0.847295334426373,0.15270466557362705,743.6378536056659,0,Zone 1,Married,College degree,No,Female,No,Yes,No,E-service
+105,23,0.9744715023353353,0.025528497664664695,893.5365544304248,0,Zone 2,Unmarried,Some college,No,Female,No,No,No,E-service
+106,14,0.9047767386686802,0.09522326133131975,806.5010176667593,0,Zone 2,Unmarried,Some college,No,Female,No,No,Yes,E-service
+107,35,0.9534599973552197,0.04654000264478031,867.5728652599008,0,Zone 1,Unmarried,High school degree,No,Male,No,No,No,Basic service
+108,26,0.8920566264437498,0.10794337355625017,793.6525845015547,0,Zone 3,Unmarried,Some college,No,Female,Yes,No,Yes,Total service
+109,13,0.6687695131597078,0.3312304868402922,566.2385361176382,0,Zone 1,Unmarried,College degree,No,Male,Yes,Yes,No,Basic service
+110,69,0.9641449372998566,0.03585506270014338,881.9374602934179,0,Zone 2,Married,High school degree,No,Male,No,No,No,E-service
+111,61,0.9723171256112361,0.027682874388763934,892.3464287677394,0,Zone 3,Married,College degree,No,Female,No,Yes,No,E-service
+112,45,0.9047612103132572,0.09523878968674282,808.9310146003365,0,Zone 2,Married,College degree,No,Female,No,No,No,E-service
+113,3,0.7603380895459249,0.23966191045407514,649.8379972921982,0,Zone 2,Unmarried,Did not complete high school,No,Female,Yes,No,No,Basic service
+114,53,0.8187095332135672,0.1812904667864328,711.5276299851661,0,Zone 2,Unmarried,College degree,No,Male,No,Yes,No,E-service
+115,59,0.9136908276077198,0.0863091723922802,819.5739834799134,0,Zone 1,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+116,13,0.686635359065471,0.313364640934529,582.736184043885,0,Zone 1,Unmarried,Some college,No,Female,No,Yes,No,Basic service
+117,31,0.8786468398497966,0.12135316015020337,778.5830820342984,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+118,40,0.9174575038698273,0.08254249613017273,823.8821942195009,0,Zone 1,Married,High school degree,No,Female,No,No,Yes,Plus service
+119,48,0.9638178959226776,0.03618210407732236,881.1561500633645,0,Zone 1,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+120,3,0.49556540359877493,0.5044345964012251,420.9554889403771,1,Zone 3,Unmarried,Did not complete high school,No,Male,No,Yes,Yes,Basic service
+121,51,0.9022312289642475,0.09776877103575254,805.9749091094493,0,Zone 2,Unmarried,High school degree,No,Female,No,No,No,Basic service
+122,33,0.8815673440224137,0.11843265597758634,781.9392891231278,0,Zone 3,Unmarried,High school degree,No,Male,No,No,No,Basic service
+123,14,0.9039868732526986,0.09601312674730145,805.5924245448308,0,Zone 3,Married,Did not complete high school,No,Male,No,No,No,Basic service
+124,17,0.8993999258191265,0.10060007418087347,801.02250945445,0,Zone 1,Married,Post-undergraduate degree,No,Male,No,Yes,No,E-service
+125,19,0.7392295361328595,0.26077046386714053,632.1817530061018,0,Zone 3,Married,High school degree,No,Male,No,Yes,Yes,Basic service
+126,58,0.9328602277733875,0.06713977222661249,842.7447394322369,0,Zone 2,Unmarried,High school degree,No,Female,No,No,No,E-service
+127,22,0.703421169976301,0.296578830023699,597.0580396334467,0,Zone 3,Unmarried,High school degree,No,Female,Yes,Yes,No,Total service
+128,29,0.8478678457662779,0.15213215423372206,744.2651885619089,0,Zone 2,Married,College degree,No,Male,No,Yes,No,E-service
+129,14,0.7882452605099252,0.21175473949007484,681.2117967446721,0,Zone 3,Married,Some college,No,Female,No,Yes,No,E-service
+130,70,0.9813423941312249,0.018657605868775073,904.2592712659343,0,Zone 2,Married,Did not complete high school,No,Female,Yes,No,Yes,Total service
+131,62,0.9554013190353191,0.04459868096468089,870.7581227357398,0,Zone 1,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+132,7,0.809802081821806,0.19019791817819398,701.4027144719118,0,Zone 2,Married,Did not complete high school,No,Male,No,No,No,Basic service
+133,56,0.9654324119511316,0.03456758804886839,883.3978743231764,0,Zone 1,Married,High school degree,No,Male,Yes,No,Yes,Total service
+134,50,0.9400617860377549,0.05993821396224508,851.4666371003709,0,Zone 1,Married,Post-undergraduate degree,No,Female,Yes,Yes,Yes,E-service
+135,57,0.9186538820384944,0.08134611796150559,825.5208280835304,0,Zone 2,Unmarried,Post-undergraduate degree,No,Male,No,No,Yes,Plus service
+136,2,0.6512254121324458,0.3487745878675542,550.2093510958302,0,Zone 3,Unmarried,College degree,No,Female,Yes,Yes,No,Basic service
+137,40,0.8848175426301234,0.11518245736987665,785.7174833157344,0,Zone 2,Unmarried,College degree,No,Female,No,No,No,Basic service
+138,6,0.9234410270632609,0.07655897293673908,824.0688627986602,0,Zone 2,Unmarried,Post-undergraduate degree,No,Male,No,No,Yes,Plus service
+139,23,0.901210770041097,0.09878922995890305,803.938149866034,0,Zone 3,Married,High school degree,No,Female,No,No,Yes,Plus service
+140,11,0.7195804409117447,0.28041955908825533,613.8647278983838,0,Zone 3,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+141,29,0.8718107964628814,0.1281892035371186,770.825860624856,0,Zone 1,Married,Post-undergraduate degree,No,Female,Yes,Yes,Yes,Total service
+142,42,0.9403393649919929,0.05966063500800711,851.6086798254014,0,Zone 1,Married,High school degree,No,Male,No,No,No,Plus service
+143,20,0.8515011683780647,0.14849883162193533,747.9896689360551,0,Zone 1,Married,College degree,No,Female,No,Yes,Yes,Total service
+144,72,0.9895037188815418,0.01049628111845824,915.1576305926175,0,Zone 2,Married,Did not complete high school,Yes,Male,No,No,No,E-service
+145,2,0.9057636347051967,0.09423636529480328,797.7124198650196,0,Zone 1,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+146,46,0.7471074674450638,0.25289253255493616,636.8713698717008,0,Zone 3,Unmarried,Post-undergraduate degree,No,Female,No,Yes,Yes,Basic service
+147,39,0.9377773435223178,0.062222656477682214,848.3653925332287,0,Zone 2,Married,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+148,24,0.8175249778736428,0.18247502212635724,711.632622072746,0,Zone 3,Married,Some college,No,Female,No,Yes,Yes,E-service
+149,59,0.9535004014852955,0.04649959851470453,868.325001470763,0,Zone 3,Married,High school degree,No,Female,No,No,No,E-service
+150,65,0.9321399080892266,0.06786009191077336,841.910178580445,0,Zone 1,Unmarried,High school degree,No,Male,No,No,No,E-service
+151,50,0.8593505873259196,0.14064941267408038,756.6138807083898,0,Zone 2,Married,High school degree,No,Female,No,No,No,Basic service
+152,57,0.8766747484166398,0.12332525158336016,776.1824788133215,0,Zone 1,Unmarried,College degree,No,Female,No,Yes,No,Plus service
+153,61,0.8954923782169645,0.10450762178303552,797.9978621096124,0,Zone 3,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+154,34,0.9427137810880765,0.05728621891192354,854.1885607625181,0,Zone 3,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+155,38,0.9445154556272717,0.05548454437272832,856.6020096743677,0,Zone 3,Unmarried,College degree,No,Male,Yes,No,Yes,Total service
+156,3,0.6408892913721859,0.35911070862781413,541.744387672047,0,Zone 1,Married,High school degree,No,Female,Yes,Yes,No,Plus service
+157,4,0.6833292111278249,0.31667078887217515,579.5537634033672,0,Zone 2,Unmarried,College degree,No,Male,No,Yes,Yes,Basic service
+158,15,0.7567318187758248,0.24326818122417515,649.7069936414739,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+159,25,0.8652056390212037,0.13479436097879627,763.3238962684574,0,Zone 1,Married,College degree,No,Female,No,Yes,No,E-service
+160,21,0.9698190578103386,0.030180942189661386,887.1957076011859,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+161,50,0.9473961390185397,0.052603860981460304,860.5374199124635,0,Zone 3,Married,Some college,No,Female,No,No,Yes,Plus service
+162,65,0.9897048746490561,0.010295125350943901,915.367664395979,0,Zone 2,Married,High school degree,Yes,Female,No,No,Yes,Plus service
+163,59,0.9495048204208731,0.05049517957912686,863.3198192680893,0,Zone 2,Married,Did not complete high school,No,Male,No,No,No,Basic service
+164,29,0.8721649850617788,0.12783501493822125,771.2236942619189,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,No,Plus service
+165,60,0.9245698029533512,0.07543019704664877,832.6707262980221,0,Zone 1,Unmarried,Post-undergraduate degree,No,Female,No,Yes,No,E-service
+166,71,0.9406472399259734,0.05935276007402657,852.4117808988782,0,Zone 1,Married,High school degree,No,Male,No,Yes,No,E-service
+167,38,0.8011694336430231,0.19883056635697693,693.6176337145904,0,Zone 3,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+168,16,0.8421981958794713,0.1578018041205287,737.5692023676148,0,Zone 3,Married,High school degree,No,Female,No,No,No,Basic service
+169,7,0.6951765943218915,0.3048234056781085,590.9820422689648,0,Zone 3,Unmarried,Some college,No,Male,Yes,No,No,Basic service
+170,59,0.9452463191733308,0.054753680826669204,858.0155461107097,0,Zone 1,Unmarried,College degree,No,Male,No,Yes,No,E-service
+171,22,0.9304853079689135,0.06951469203108651,838.287384103617,0,Zone 2,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+172,18,0.9487813563594916,0.05121864364050843,859.9690563172874,0,Zone 1,Married,Did not complete high school,No,Female,No,No,No,Basic service
+173,64,0.9286286252909641,0.07137137470903587,837.6180035039795,0,Zone 2,Married,High school degree,No,Female,Yes,Yes,Yes,Total service
+174,7,0.5838191865854288,0.41618081341457125,492.54115621869533,1,Zone 2,Unmarried,College degree,No,Female,No,Yes,No,Basic service
+175,65,0.9710004680092692,0.028999531990730798,890.6992854889106,0,Zone 3,Unmarried,High school degree,No,Female,No,No,No,E-service
+176,7,0.5269463719942292,0.4730536280057708,444.9475872864776,1,Zone 3,Unmarried,High school degree,No,Male,No,Yes,No,Basic service
+177,64,0.9798686841643611,0.020131315835638874,902.2473534286557,0,Zone 1,Unmarried,Did not complete high school,No,Female,No,No,No,Plus service
+178,42,0.7933549676078894,0.20664503239211063,685.0767663266339,0,Zone 3,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+179,33,0.8090642223845966,0.19093577761540337,702.2989896154669,0,Zone 3,Unmarried,College degree,No,Female,No,Yes,Yes,Total service
+180,3,0.781482266865332,0.21851773313466805,670.094383609719,0,Zone 1,Unmarried,College degree,No,Female,No,No,No,Basic service
+181,69,0.9053159610265246,0.09468403897347544,809.5432432323357,0,Zone 2,Married,High school degree,No,Male,Yes,Yes,Yes,Total service
+182,9,0.7311776126194149,0.26882238738058506,624.8338455517733,0,Zone 2,Unmarried,High school degree,No,Male,No,No,No,Basic service
+183,22,0.850422124019236,0.149577875980764,746.9302373661249,0,Zone 3,Married,Some college,No,Male,No,Yes,No,E-service
+184,53,0.9673864525541498,0.03261354744585021,885.8424033131057,0,Zone 2,Married,High school degree,No,Male,No,Yes,No,E-service
+185,71,0.9841460659455097,0.015853934054490315,907.980625238868,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,No,E-service
+186,24,0.754427344497483,0.24557265550251695,646.7027180077189,0,Zone 3,Unmarried,Some college,No,Male,No,No,No,Basic service
+187,12,0.6116672291965327,0.3883327708034673,515.2338934074301,0,Zone 3,Married,Some college,No,Female,No,Yes,No,Basic service
+188,25,0.824927071299844,0.175072928700156,719.4848599754401,0,Zone 1,Married,College degree,No,Male,Yes,Yes,No,E-service
+189,63,0.9049791311810382,0.09502086881896177,809.1826745815634,0,Zone 3,Married,High school degree,No,Female,Yes,No,Yes,Plus service
+190,33,0.9515223130421583,0.048477686957841715,865.037729010373,0,Zone 1,Married,College degree,No,Female,No,Yes,Yes,Plus service
+191,57,0.9560225967043988,0.04397740329560118,871.4675969355948,0,Zone 2,Married,High school degree,No,Female,No,No,No,Basic service
+192,13,0.7402078308824673,0.25979216911753267,633.5955006986081,0,Zone 3,Unmarried,Some college,No,Female,Yes,Yes,Yes,Total service
+193,13,0.7121766472524497,0.28782335274755033,606.7162903326858,0,Zone 1,Unmarried,Some college,No,Female,No,Yes,No,E-service
+194,71,0.8905917039728952,0.10940829602710478,792.1255924708878,0,Zone 1,Unmarried,Some college,No,Male,Yes,No,No,Plus service
+195,18,0.9545272947174681,0.04547270528253189,867.147331382786,0,Zone 3,Married,Some college,No,Male,Yes,Yes,Yes,Total service
+196,17,0.9270123976758885,0.0729876023241115,833.2862006017662,0,Zone 1,Married,High school degree,No,Female,No,No,No,Basic service
+197,22,0.8316754902725486,0.1683245097274514,726.6894887078616,0,Zone 2,Unmarried,High school degree,No,Male,No,No,No,Basic service
+198,65,0.9928904143114433,0.0071095856885566855,919.7031721467876,0,Zone 2,Married,Some college,No,Male,No,No,Yes,Plus service
+199,7,0.6778506754644846,0.32214932453551537,575.1598998436277,0,Zone 3,Unmarried,College degree,No,Female,No,Yes,No,Basic service
+200,72,0.9615825212992298,0.03841747870077017,878.6984242690795,0,Zone 3,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+201,35,0.8786504562367458,0.12134954376325424,778.645408640764,0,Zone 1,Unmarried,Some college,No,Male,No,No,No,Basic service
+202,24,0.8282426017463483,0.17175739825365166,723.0338233723958,0,Zone 1,Unmarried,College degree,No,Male,No,Yes,Yes,Total service
+203,64,0.8640288123640656,0.1359711876359344,761.5455297422421,0,Zone 1,Married,Some college,No,Female,No,Yes,No,E-service
+204,63,0.990369585035073,0.009630414964927003,916.2482570141798,0,Zone 2,Married,Some college,No,Male,No,No,No,E-service
+205,38,0.9061997918464316,0.09380020815356838,810.5202986032431,0,Zone 1,Married,College degree,No,Male,Yes,No,Yes,Total service
+206,29,0.8823081908104722,0.11769180918952782,782.6807441900723,0,Zone 2,Married,Some college,No,Male,No,No,No,Basic service
+207,72,0.998922531986434,0.0010774680135660075,928.1553808582487,0,Zone 1,Married,High school degree,Yes,Female,No,No,No,Plus service
+208,10,0.7310699743573298,0.2689300256426702,624.7953459899105,0,Zone 1,Married,Some college,No,Female,Yes,Yes,Yes,Total service
+209,72,0.9878205157445461,0.012179484255453898,912.8937286968888,0,Zone 3,Unmarried,College degree,No,Female,Yes,No,Yes,Plus service
+210,52,0.9031703432189274,0.09682965678107258,807.081057831271,0,Zone 3,Married,College degree,No,Female,No,No,Yes,Plus service
+211,13,0.8692524580993382,0.13074754190066185,766.3216281455567,0,Zone 3,Unmarried,High school degree,No,Female,No,No,No,Basic service
+212,3,0.7638020791866903,0.2361979208133097,653.1295018087716,0,Zone 1,Unmarried,College degree,No,Male,No,No,No,Basic service
+213,39,0.8262772126211057,0.17372278737889435,720.4528638422862,0,Zone 3,Married,High school degree,No,Male,No,No,No,Basic service
+214,28,0.8070188183368567,0.19298118166314326,700.4018714088811,0,Zone 2,Unmarried,Some college,No,Male,No,Yes,Yes,E-service
+215,46,0.9398167031537888,0.060183296846211154,851.0785356154696,0,Zone 2,Unmarried,College degree,No,Male,No,No,No,E-service
+216,62,0.9371460793169964,0.06285392068300355,848.0341035386544,0,Zone 2,Unmarried,Some college,No,Female,No,No,No,Basic service
+217,23,0.9279421554121735,0.07205784458782649,835.3618365770714,0,Zone 2,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+218,23,0.7806328591349864,0.21936714086501363,673.2994193207932,0,Zone 3,Married,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+219,72,0.9801006676746246,0.01989933232537544,902.6437596169379,0,Zone 2,Married,Some college,No,Male,Yes,Yes,Yes,Total service
+220,56,0.9572164138191813,0.04278358618081868,872.956496939742,0,Zone 3,Unmarried,High school degree,No,Male,No,No,No,Basic service
+221,8,0.8457386067966726,0.15426139320332743,739.1162650191905,0,Zone 1,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+222,3,0.8868954065483664,0.1131045934516336,778.4922703928323,0,Zone 3,Unmarried,Post-undergraduate degree,No,Female,Yes,No,Yes,Total service
+223,37,0.8444113706812102,0.1555886293187898,740.3325089279949,0,Zone 3,Unmarried,Some college,No,Male,No,No,No,Basic service
+224,37,0.9750898473568802,0.0249101526431198,895.3186425900623,0,Zone 3,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+225,6,0.7660791806921,0.23392081930789999,657.576101059611,0,Zone 2,Unmarried,High school degree,No,Female,No,No,No,Basic service
+226,48,0.9241931190454529,0.07580688095454713,832.1084574226188,0,Zone 1,Unmarried,Some college,No,Male,Yes,No,Yes,Total service
+227,43,0.8678784963178459,0.13212150368215414,766.3911718148621,0,Zone 2,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+228,21,0.6788074347061033,0.3211925652938967,573.9347945783531,0,Zone 2,Unmarried,College degree,No,Female,No,Yes,Yes,Basic service
+229,6,0.7193189353113667,0.2806810646886333,613.1455385236053,0,Zone 3,Unmarried,Some college,No,Male,Yes,Yes,Yes,Plus service
+230,69,0.9630844554385047,0.03691554456149526,880.5832207924359,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+231,22,0.8988442951931918,0.10115570480680824,801.1072223011397,0,Zone 1,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+232,28,0.9278444389409478,0.07215556105905219,835.7305820884919,0,Zone 1,Married,High school degree,No,Female,No,No,Yes,Plus service
+233,71,0.9826663336896133,0.017333666310386686,906.01887842357,0,Zone 1,Married,Did not complete high school,No,Male,No,No,No,E-service
+234,7,0.7826876194464889,0.2173123805535111,674.2746417888798,0,Zone 2,Unmarried,College degree,No,Male,No,No,No,Basic service
+235,63,0.8435139836454911,0.15648601635450887,738.4219819405141,0,Zone 1,Unmarried,Some college,No,Male,Yes,Yes,Yes,Total service
+236,53,0.9840010030781183,0.01599899692188167,907.5479626229062,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,Yes,E-service
+237,50,0.9690839780823253,0.03091602191767473,887.9568439474652,0,Zone 2,Married,College degree,No,Male,Yes,No,Yes,Total service
+238,39,0.9334938908172637,0.06650610918273625,843.144018397198,0,Zone 2,Married,College degree,No,Male,No,No,Yes,Total service
+239,16,0.6753991006303375,0.3246008993696625,571.771266758177,0,Zone 3,Unmarried,High school degree,No,Female,No,No,No,Basic service
+240,43,0.9651813116090504,0.03481868839094959,882.7453779950187,0,Zone 3,Married,Some college,No,Male,Yes,No,Yes,Total service
+241,44,0.8526363098418331,0.14736369015816686,749.2502157190223,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+242,72,0.996371807696102,0.0036281923038979924,924.5541459023539,0,Zone 2,Married,High school degree,No,Female,Yes,No,Yes,Total service
+243,61,0.9968996149541282,0.003100385045871845,925.2413600147308,0,Zone 3,Unmarried,Did not complete high school,Yes,Male,No,No,Yes,Plus service
+244,43,0.8350169781576172,0.16498302184238278,729.8047959996863,0,Zone 3,Married,Did not complete high school,No,Male,No,Yes,Yes,E-service
+245,24,0.7571951939858462,0.24280480601415377,649.4767220106746,0,Zone 3,Unmarried,Some college,No,Female,No,Yes,No,Basic service
+246,64,0.9035140276279844,0.09648597237201562,807.4384890568856,0,Zone 3,Unmarried,High school degree,No,Female,Yes,No,Yes,Plus service
+247,64,0.9164113773421265,0.08358862265787348,822.8335292501473,0,Zone 2,Unmarried,High school degree,No,Male,No,No,No,E-service
+248,24,0.7793312281043141,0.2206687718956859,671.900133166233,0,Zone 1,Unmarried,High school degree,No,Female,No,No,No,Basic service
+249,33,0.9603080444369573,0.039691955563042725,876.082354687528,0,Zone 3,Married,Some college,No,Female,No,No,Yes,Basic service
+250,33,0.9251861644933079,0.07481383550669207,832.8593843492362,0,Zone 2,Married,College degree,No,Female,Yes,No,No,E-service
+251,2,0.6601882896431708,0.3398117103568292,557.9914330778363,0,Zone 1,Unmarried,College degree,No,Male,No,Yes,No,Basic service
+252,42,0.9575558322075646,0.04244416779243543,873.0272143516725,0,Zone 2,Married,Did not complete high school,No,Female,No,Yes,Yes,Total service
+253,52,0.9082868927951794,0.09171310720482062,813.1305107490234,0,Zone 1,Married,Post-undergraduate degree,No,Male,Yes,Yes,No,E-service
+254,45,0.9896340933439711,0.010365906656028878,914.9865748690773,0,Zone 1,Unmarried,High school degree,No,Female,No,Yes,No,E-service
+255,3,0.6080838390212117,0.39191616097878834,513.597814999795,0,Zone 3,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+256,37,0.9789226915255623,0.021077308474437673,900.3604399882705,0,Zone 2,Married,Did not complete high school,No,Female,No,No,Yes,Plus service
+257,28,0.9545965684603768,0.04540343153962323,868.5209680229809,0,Zone 2,Unmarried,College degree,No,Female,Yes,Yes,Yes,E-service
+258,40,0.9493683126892462,0.05063168731075385,862.6970773081142,0,Zone 3,Married,Did not complete high school,No,Male,No,No,No,Basic service
+259,37,0.8242333365115793,0.17576666348842074,718.3336929898506,0,Zone 2,Unmarried,High school degree,No,Male,No,Yes,No,Total service
+260,7,0.6580168079182985,0.34198319208170147,557.2891703817486,0,Zone 3,Unmarried,Some college,No,Male,Yes,Yes,Yes,Total service
+261,71,0.9672311049263417,0.03276889507365832,885.9127516103939,0,Zone 1,Unmarried,Did not complete high school,No,Female,Yes,No,Yes,Total service
+262,19,0.7737208371954051,0.22627916280459492,666.508306458861,0,Zone 2,Unmarried,High school degree,No,Female,No,Yes,No,Basic service
+263,61,0.9410563000882646,0.058943699911735425,852.8466753850382,0,Zone 2,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+264,70,0.9810181207104778,0.01898187928952222,903.831578704211,0,Zone 3,Married,High school degree,No,Female,No,No,No,E-service
+265,60,0.945064648904183,0.05493535109581704,857.8019765512458,0,Zone 2,Married,Did not complete high school,No,Female,No,No,No,Basic service
+266,48,0.9030068310256559,0.09699316897434407,806.8832685411354,0,Zone 3,Married,Did not complete high school,No,Female,No,No,No,Basic service
+267,8,0.9829493715068525,0.017050628493147535,901.9641796144776,0,Zone 1,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+268,58,0.974650220408839,0.025349779591161026,895.3279559676579,0,Zone 2,Married,High school degree,No,Male,No,No,No,Plus service
+269,16,0.8927272711555252,0.10727272884447481,793.2166986271493,0,Zone 1,Married,Some college,No,Male,No,No,Yes,Plus service
+270,33,0.813089975477999,0.186910024522001,706.5789143212346,0,Zone 2,Unmarried,High school degree,No,Female,No,No,No,Basic service
+271,39,0.8675496926772968,0.13245030732270324,766.071251916702,0,Zone 2,Unmarried,Did not complete high school,No,Female,No,No,No,Plus service
+272,62,0.9191691351813057,0.08083086481869428,826.1521484058488,0,Zone 1,Unmarried,College degree,No,Male,No,Yes,No,E-service
+273,50,0.8400676405796423,0.15993235942035766,735.0845514536248,0,Zone 1,Unmarried,Some college,No,Male,Yes,Yes,Yes,Total service
+274,48,0.9583635653184318,0.04163643468156819,874.2320322885521,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+275,31,0.932598830834136,0.06740116916586403,841.6725831465394,0,Zone 3,Unmarried,High school degree,No,Female,Yes,No,Yes,Plus service
+276,65,0.9476272278275918,0.05237277217240821,861.0444851101526,0,Zone 2,Married,High school degree,No,Male,No,No,Yes,E-service
+277,36,0.9929030013606406,0.00709699863935942,919.3039859981087,0,Zone 1,Unmarried,Did not complete high school,No,Female,No,No,No,E-service
+278,61,0.9064734242235398,0.09352657577646017,810.9669407577044,0,Zone 1,Unmarried,Some college,No,Female,Yes,No,Yes,Plus service
+279,48,0.9547761638247816,0.04522383617521841,869.7120366854568,0,Zone 2,Unmarried,College degree,No,Male,No,No,Yes,Plus service
+280,35,0.9009817049634724,0.09901829503652759,804.3432750218639,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,Yes,Basic service
+281,51,0.8188531468643973,0.18114685313560275,711.7896367516726,0,Zone 1,Unmarried,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+282,49,0.899052928678089,0.10094707132191105,802.2415870784773,0,Zone 2,Married,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+283,35,0.9507630533602357,0.0492369466397643,864.2050876222601,0,Zone 1,Married,Some college,No,Female,No,No,Yes,Plus service
+284,58,0.9362760476265051,0.06372395237349493,846.9288364466413,0,Zone 1,Unmarried,Some college,Yes,Female,No,Yes,No,E-service
+285,23,0.910548644059836,0.08945135594016396,814.78632047633,0,Zone 1,Married,High school degree,No,Male,No,No,Yes,Plus service
+286,26,0.906994465952801,0.09300553404719902,810.912323347767,0,Zone 2,Married,College degree,No,Female,No,Yes,Yes,Plus service
+287,38,0.9036659063242096,0.09633409367579038,807.5491650454153,0,Zone 1,Married,Did not complete high school,No,Female,Yes,No,Yes,Total service
+288,35,0.9989709541741476,0.0010290458258523927,928.0960156136726,0,Zone 1,Married,Some college,Yes,Female,No,No,Yes,Plus service
+289,37,0.9440211299438592,0.05597887005614077,855.9481773609749,0,Zone 2,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+290,48,0.9470600854714997,0.05293991452850033,860.0745219868899,0,Zone 2,Married,High school degree,No,Male,No,No,No,E-service
+291,13,0.8799195277732592,0.12008047222674079,778.1057532193105,0,Zone 3,Married,Some college,No,Male,No,Yes,Yes,Total service
+292,72,0.9926667619905709,0.007333238009429088,919.4481950531436,0,Zone 1,Married,Post-undergraduate degree,Yes,Male,No,No,Yes,Plus service
+293,30,0.8036258399588933,0.19637416004110675,696.7222051949067,0,Zone 1,Unmarried,College degree,No,Female,No,Yes,No,E-service
+294,24,0.8760839209805324,0.12391607901946755,775.4189442418527,0,Zone 1,Unmarried,College degree,No,Female,No,Yes,No,Plus service
+295,25,0.9763840674093132,0.02361593259068684,896.2615837321774,0,Zone 2,Married,Some college,No,Male,Yes,No,Yes,Total service
+296,50,0.9378459734166484,0.06215402658335156,848.743867576031,0,Zone 2,Unmarried,Some college,No,Male,Yes,Yes,Yes,Total service
+297,28,0.914226030037179,0.08577396996282105,819.5354877826005,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,No,Plus service
+298,34,0.8487648660319417,0.15123513396805832,745.1961021512333,0,Zone 3,Unmarried,College degree,No,Male,Yes,No,No,Basic service
+299,48,0.8054753050682947,0.19452469493170532,697.5430746038328,0,Zone 1,Unmarried,Some college,No,Male,Yes,Yes,Yes,Total service
+300,42,0.9488245724149403,0.05117542758505966,862.0940297292706,0,Zone 2,Married,High school degree,No,Female,No,No,No,E-service
+301,67,0.9940919895525937,0.005908010447406298,921.3687265436363,0,Zone 3,Married,Did not complete high school,Yes,Female,No,No,Yes,Plus service
+302,17,0.8796697149764602,0.12033028502353982,778.6978867951527,0,Zone 1,Married,High school degree,No,Male,No,Yes,Yes,Plus service
+303,29,0.973686824171854,0.026313175828145963,893.0319841914932,0,Zone 1,Married,High school degree,No,Male,No,No,No,E-service
+304,66,0.9867084567376685,0.013291543262331507,911.3464230210207,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,No,E-service
+305,1,0.37521227391781053,0.6247877260821895,328.6806014150706,1,Zone 2,Unmarried,Some college,No,Female,No,Yes,No,Basic service
+306,28,0.8605934042943519,0.13940659570564806,758.2879166291775,0,Zone 1,Married,College degree,No,Male,No,Yes,Yes,Total service
+307,15,0.8676691078666073,0.13233089213339266,765.0382842733565,0,Zone 1,Married,Some college,No,Male,No,Yes,No,E-service
+308,12,0.9412391614077676,0.058760838592232356,849.0461655015805,0,Zone 2,Unmarried,High school degree,Yes,Female,No,Yes,Yes,Plus service
+309,48,0.9482732300512042,0.05172676994879577,861.582454745095,0,Zone 3,Unmarried,High school degree,No,Female,Yes,No,Yes,Total service
+310,59,0.8606654065623419,0.13933459343765808,757.8554887551066,0,Zone 2,Married,Some college,No,Male,No,No,No,Basic service
+311,8,0.6046492964224773,0.39535070357752267,510.18023903003046,0,Zone 3,Married,College degree,No,Male,No,Yes,No,Basic service
+312,45,0.9674525072845722,0.032547492715427784,885.7211492403455,0,Zone 1,Unmarried,Post-undergraduate degree,No,Female,No,No,No,E-service
+313,25,0.9562508193850154,0.04374918061498456,870.3137587346305,0,Zone 1,Married,College degree,No,Female,No,No,No,E-service
+314,21,0.8515241779498847,0.14847582205011534,748.0790516583418,0,Zone 1,Married,Some college,No,Male,Yes,Yes,Yes,Total service
+315,17,0.9730294714389489,0.026970528561051088,890.7936162861516,0,Zone 2,Married,Did not complete high school,No,Female,Yes,No,Yes,Total service
+316,41,0.829371572320741,0.170628427679259,723.7235695041845,0,Zone 2,Unmarried,Some college,No,Male,No,Yes,Yes,Basic service
+317,13,0.8176463555125967,0.18235364448740332,711.2592737807855,0,Zone 1,Married,Some college,No,Female,Yes,Yes,Yes,Plus service
+318,1,0.7893799309946938,0.21062006900530617,674.1071084760408,0,Zone 2,Married,High school degree,No,Female,No,No,No,Basic service
+319,3,0.763226858812166,0.236773141187834,652.582210009843,0,Zone 3,Married,High school degree,No,Female,Yes,Yes,Yes,Total service
+320,23,0.7536297000504507,0.2463702999495493,646.0101434298391,0,Zone 1,Married,Post-undergraduate degree,No,Female,Yes,No,No,Basic service
+321,26,0.8726417813540577,0.12735821864594232,771.6610946489507,0,Zone 3,Unmarried,Some college,No,Male,Yes,Yes,Yes,Total service
+322,37,0.9754674188675448,0.024532581132455156,895.8129999091279,0,Zone 1,Married,Did not complete high school,No,Male,No,No,No,Plus service
+323,5,0.7514001602696789,0.24859983973032107,642.9547129763694,0,Zone 3,Unmarried,College degree,No,Male,No,Yes,No,E-service
+324,32,0.8007338014001375,0.1992661985998625,693.5566201752347,0,Zone 1,Married,College degree,No,Female,Yes,Yes,No,Total service
+325,12,0.6762901401736355,0.32370985982636447,573.3200856221025,0,Zone 3,Unmarried,College degree,No,Male,No,No,Yes,Basic service
+326,72,0.9646315296469469,0.03536847035305313,882.5902083554518,0,Zone 1,Married,Did not complete high school,No,Male,No,No,No,Plus service
+327,3,0.5616276626637042,0.43837233733629577,474.6666946499028,1,Zone 3,Married,College degree,No,Female,No,Yes,No,Basic service
+328,54,0.9390453970709547,0.06095460292904531,850.2829124817413,0,Zone 1,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+329,26,0.7799537776073169,0.22004622239268312,672.3890022183771,0,Zone 2,Unmarried,High school degree,No,Female,No,Yes,Yes,Total service
+330,14,0.7163074301361007,0.28369256986389935,610.5465852264596,0,Zone 3,Unmarried,Post-undergraduate degree,No,Female,No,Yes,No,Basic service
+331,22,0.9448710176397374,0.055128982360262646,855.7859539551781,0,Zone 3,Unmarried,Some college,No,Male,No,No,Yes,Basic service
+332,65,0.9422141555129189,0.05778584448708113,854.3147616891607,0,Zone 3,Married,Did not complete high school,No,Female,No,No,No,Basic service
+333,26,0.900475806819763,0.09952419318023698,803.3420680213703,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+334,20,0.7716707044018706,0.22832929559812942,664.3828318466785,0,Zone 1,Unmarried,Some college,No,Female,Yes,Yes,Yes,Total service
+335,67,0.9950129482912754,0.004987051708724599,922.6406502237437,0,Zone 2,Married,Did not complete high school,No,Male,No,No,No,E-service
+336,34,0.878964345450305,0.121035654549695,778.9924042863348,0,Zone 1,Unmarried,High school degree,No,Male,No,No,No,Basic service
+337,37,0.994330544271201,0.0056694557287989555,921.3423211272502,0,Zone 1,Married,High school degree,No,Male,No,No,No,Plus service
+338,22,0.7935971281165974,0.20640287188340256,686.673375362771,0,Zone 2,Married,Did not complete high school,No,Male,No,No,No,Basic service
+339,5,0.9225042082844381,0.07749579171556187,821.9484985225378,0,Zone 2,Unmarried,High school degree,Yes,Male,No,No,No,Basic service
+340,28,0.899875541545182,0.10012445845481799,802.7756389972985,0,Zone 1,Married,College degree,No,Female,No,No,No,Plus service
+341,20,0.8826471400094118,0.1173528599905882,782.4519610819298,0,Zone 1,Married,College degree,No,Female,No,No,No,Basic service
+342,72,0.9016196074619639,0.0983803925380361,805.125420709709,0,Zone 3,Unmarried,College degree,No,Male,Yes,Yes,No,Total service
+343,30,0.8199033117273786,0.18009668827262137,713.9849582636285,0,Zone 2,Unmarried,College degree,No,Male,No,Yes,No,Basic service
+344,71,0.9154093356109559,0.08459066438904406,821.6105028344123,0,Zone 3,Unmarried,High school degree,No,Male,Yes,Yes,Yes,Total service
+345,56,0.9628834513878438,0.037116548612156186,880.1434922200225,0,Zone 2,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+346,8,0.7879433422651284,0.2120566577348716,679.8706429217466,0,Zone 1,Married,Post-undergraduate degree,No,Male,No,No,No,Basic service
+347,32,0.9313554666110504,0.0686445333889496,840.2300384499946,0,Zone 2,Unmarried,High school degree,Yes,Female,No,Yes,No,E-service
+348,46,0.9641207861216303,0.035879213878369676,881.4862806590332,0,Zone 2,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+349,60,0.9342461825513052,0.0657538174486948,844.457889197216,0,Zone 3,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+350,42,0.8242147711957097,0.17578522880429026,718.0736333112839,0,Zone 2,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+351,71,0.9931944834217873,0.006805516578212711,920.1629809875421,0,Zone 3,Married,College degree,No,Male,Yes,No,Yes,Total service
+352,72,0.9965783387033823,0.003421661296617695,924.8422689395077,0,Zone 2,Married,High school degree,Yes,Female,No,No,Yes,Plus service
+353,45,0.9367012281446936,0.06329877185530641,847.2343883785809,0,Zone 3,Unmarried,Some college,Yes,Female,No,No,No,Basic service
+354,5,0.7994592603676705,0.20054073963232955,689.7249555077317,0,Zone 3,Unmarried,Did not complete high school,No,Male,Yes,No,Yes,Plus service
+355,17,0.9781682826241812,0.021831717375818793,897.6669214224829,0,Zone 2,Married,College degree,No,Female,No,No,No,E-service
+356,70,0.9408567137953828,0.059143286204617174,852.6661182878936,0,Zone 2,Unmarried,Some college,No,Male,Yes,No,Yes,Plus service
+357,57,0.9655461202645428,0.034453879735457216,883.5616280645947,0,Zone 3,Married,Some college,No,Female,No,Yes,No,E-service
+358,20,0.929413594116147,0.07058640588385301,836.7105185892718,0,Zone 1,Unmarried,Some college,No,Female,No,No,Yes,E-service
+359,72,0.9803509538200803,0.019649046179919694,902.973107782478,0,Zone 1,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+360,32,0.9786232619867827,0.021376738013217267,899.7237844387729,0,Zone 3,Unmarried,College degree,No,Male,No,No,Yes,Plus service
+361,22,0.9753014100662304,0.02469858993376961,894.5228774532146,0,Zone 3,Married,Did not complete high school,No,Female,No,No,Yes,Plus service
+362,6,0.8193677409566652,0.1806322590433348,710.5256237061627,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+363,32,0.7819586942864225,0.2180413057135775,673.9657400746605,0,Zone 3,Married,Some college,No,Female,Yes,Yes,Yes,Total service
+364,38,0.8343726928941252,0.1656273071058748,729.2986457360432,0,Zone 1,Unmarried,College degree,No,Male,No,Yes,No,E-service
+365,53,0.930348134376268,0.06965186562373205,839.6290266065964,0,Zone 1,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+366,37,0.9901182084230131,0.009881791576986876,915.4548811892594,0,Zone 3,Unmarried,College degree,No,Female,No,No,No,Basic service
+367,47,0.881105153804422,0.118894846195578,781.4218492364978,0,Zone 1,Married,College degree,No,Female,Yes,Yes,No,Total service
+368,69,0.9812014933935662,0.018798506606433785,904.0627492324331,0,Zone 3,Unmarried,High school degree,No,Male,Yes,No,Yes,Plus service
+369,63,0.9345069954179029,0.06549300458209706,844.7994114393597,0,Zone 3,Unmarried,Some college,No,Female,No,No,No,Basic service
+370,61,0.8542912044657677,0.14570879553423233,750.5891458018289,0,Zone 1,Married,Some college,No,Female,Yes,Yes,Yes,Total service
+371,56,0.9095453245077135,0.09045467549228647,814.629273861676,0,Zone 1,Married,College degree,No,Male,No,Yes,No,Total service
+372,40,0.9842834863261462,0.01571651367385385,907.6124006110736,0,Zone 3,Married,Did not complete high school,No,Male,No,No,No,Plus service
+373,61,0.9667517067435768,0.0332482932564232,885.1721749025896,0,Zone 2,Unmarried,High school degree,No,Female,No,No,No,E-service
+374,16,0.7140597889699737,0.2859402110300263,608.1676505671584,0,Zone 2,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+375,7,0.812853969465181,0.18714603053481904,704.5014382129199,0,Zone 2,Unmarried,Some college,No,Female,No,No,No,Basic service
+376,20,0.8579441856542854,0.14205581434571457,755.0237618117462,0,Zone 3,Married,High school degree,No,Female,No,No,No,Basic service
+377,35,0.8609789070193397,0.13902109298066034,758.7346897573437,0,Zone 2,Unmarried,High school degree,No,Male,No,Yes,No,E-service
+378,60,0.9583885929937656,0.04161140700623445,874.5029127228869,0,Zone 1,Married,Post-undergraduate degree,No,Female,No,No,No,E-service
+379,47,0.8486523013814133,0.15134769861858666,744.7199946073559,0,Zone 2,Unmarried,High school degree,No,Male,Yes,No,Yes,Total service
+380,33,0.8337665395146651,0.16623346048533494,728.8122707252587,0,Zone 2,Married,High school degree,No,Female,No,No,No,Basic service
+381,12,0.7544205866006829,0.2455794133993171,647.4420797936051,0,Zone 3,Unmarried,High school degree,No,Male,No,No,No,Basic service
+382,10,0.7463345352066431,0.25366546479335694,639.461478563987,0,Zone 1,Unmarried,College degree,No,Female,No,Yes,No,E-service
+383,69,0.9394481567140981,0.06055184328590191,850.9182628328247,0,Zone 2,Married,College degree,No,Female,No,No,Yes,Plus service
+384,23,0.8386268783535258,0.16137312164647422,734.175623801174,0,Zone 1,Unmarried,Some college,No,Female,No,No,No,E-service
+385,53,0.869219768246804,0.13078023175319597,767.7259062177849,0,Zone 1,Unmarried,Some college,No,Male,No,Yes,No,E-service
+386,60,0.9781641526693846,0.021835847330615388,899.9515722540834,0,Zone 2,Married,High school degree,No,Female,No,No,Yes,Plus service
+387,33,0.8252186332714775,0.1747813667285225,719.569066655986,0,Zone 2,Unmarried,High school degree,No,Male,No,No,No,Basic service
+388,67,0.9228162972025185,0.07718370279748155,830.5617643395843,0,Zone 3,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+389,15,0.9379105262690417,0.0620894737309583,845.930745831052,0,Zone 3,Married,Some college,No,Male,No,No,Yes,Plus service
+390,64,0.8645449408606887,0.13545505913931133,762.1340382970042,0,Zone 3,Married,High school degree,No,Female,Yes,Yes,Yes,E-service
+391,46,0.9317774044117763,0.06822259558822374,841.253053422428,0,Zone 2,Married,High school degree,No,Male,No,No,No,Basic service
+392,72,0.9900391600177928,0.009960839982207204,915.8804183917375,0,Zone 2,Married,Did not complete high school,Yes,Male,Yes,No,Yes,Total service
+393,61,0.8908005036285368,0.1091994963714632,792.501135420038,0,Zone 1,Married,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+394,54,0.8054216403629633,0.19457835963703674,697.1147341977512,0,Zone 3,Unmarried,High school degree,No,Female,Yes,Yes,No,Total service
+395,28,0.8082323203964386,0.19176767960356145,701.6810707890021,0,Zone 3,Unmarried,Some college,No,Female,No,Yes,Yes,Plus service
+396,28,0.8097868280867708,0.19021317191322917,703.3218000126424,0,Zone 2,Unmarried,Post-undergraduate degree,No,Male,Yes,Yes,No,Total service
+397,32,0.9391331506067953,0.06086684939320475,849.6822334107203,0,Zone 2,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+398,52,0.9620733249580534,0.03792667504194658,879.0315453381173,0,Zone 2,Unmarried,High school degree,No,Female,No,No,No,E-service
+399,48,0.981319621604481,0.01868037839551895,903.8801439217917,0,Zone 1,Unmarried,Did not complete high school,Yes,Female,Yes,No,Yes,Plus service
+400,52,0.927419029395878,0.07258097060412205,836.0603841513808,0,Zone 3,Married,Some college,No,Female,No,Yes,Yes,Plus service
+401,37,0.9386414268542475,0.06135857314575255,849.3411355434056,0,Zone 1,Unmarried,Some college,No,Male,No,No,No,E-service
+402,41,0.9600950152070036,0.03990498479299642,876.1995239813297,0,Zone 1,Unmarried,Some college,No,Male,Yes,No,Yes,Plus service
+403,43,0.9184854028537168,0.08151459714628317,825.1746148690596,0,Zone 2,Married,High school degree,No,Female,No,No,No,E-service
+404,67,0.9671880965792139,0.032811903420786104,885.8131539332861,0,Zone 3,Unmarried,Did not complete high school,No,Female,Yes,No,Yes,Plus service
+405,61,0.9688682026924696,0.03113179730753035,887.892073182134,0,Zone 3,Married,Did not complete high school,No,Female,No,No,No,Basic service
+406,70,0.966123819528204,0.03387618047179597,884.4812973592552,0,Zone 3,Married,High school degree,No,Female,No,No,No,Plus service
+407,44,0.8307903679021308,0.1692096320978692,725.1366769771847,0,Zone 3,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+408,46,0.9044307131490842,0.09556928685091581,808.5492819067439,0,Zone 3,Unmarried,Some college,No,Male,No,Yes,No,E-service
+409,39,0.8194650924601471,0.1805349075398529,713.092609542333,0,Zone 3,Unmarried,Some college,No,Male,No,No,No,Basic service
+410,39,0.9270321632466725,0.07296783675332752,835.324297509392,0,Zone 2,Unmarried,College degree,No,Female,Yes,Yes,No,E-service
+411,50,0.9147323966123849,0.08526760338761508,820.7863476628487,0,Zone 2,Married,College degree,No,Female,Yes,No,Yes,Total service
+412,5,0.7035087603590312,0.2964912396409688,598.2247821388997,0,Zone 3,Unmarried,Some college,No,Female,No,No,No,Basic service
+413,10,0.7716238491220263,0.2283761508779737,664.1744968020944,0,Zone 2,Unmarried,Post-undergraduate degree,No,Female,No,Yes,No,E-service
+414,72,0.9975705216666769,0.0024294783333230763,926.2335885247405,0,Zone 1,Unmarried,Some college,Yes,Female,No,No,No,E-service
+415,68,0.9918703192123683,0.008129680787631655,918.3332392883444,0,Zone 2,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+416,58,0.8212412096944781,0.1787587903055219,714.0297492618884,0,Zone 3,Unmarried,Post-undergraduate degree,No,Female,Yes,Yes,No,E-service
+417,18,0.904907360822438,0.09509263917756205,807.5415193612952,0,Zone 3,Married,Did not complete high school,No,Female,No,No,No,Basic service
+418,65,0.9786232995351257,0.021376700464874276,900.6238832439027,0,Zone 1,Married,Post-undergraduate degree,No,Female,No,No,No,Plus service
+419,8,0.8332342983862413,0.1667657016137587,725.9938290909058,0,Zone 3,Unmarried,College degree,No,Male,No,Yes,No,E-service
+420,1,0.4679755655637452,0.5320244344362548,400.0916126088488,1,Zone 2,Unmarried,High school degree,No,Female,Yes,No,No,Basic service
+421,42,0.9630691101724185,0.036930889827581526,880.0144668602084,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,No,E-service
+422,4,0.47389132748467966,0.5261086725153203,403.29141046928646,1,Zone 1,Married,Some college,No,Female,Yes,Yes,No,Basic service
+423,17,0.8842107281216575,0.11578927187834254,783.7877578717988,0,Zone 3,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+424,8,0.6953183520758031,0.30468164792419694,591.1724420973051,0,Zone 2,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+425,49,0.9664780043817115,0.0335219956182885,884.5835414315604,0,Zone 1,Married,High school degree,No,Female,No,No,No,E-service
+426,56,0.9532324028207175,0.04676759717928247,867.9414454165671,0,Zone 1,Married,College degree,No,Male,No,Yes,No,E-service
+427,62,0.9882045179510164,0.011795482048983619,913.3109827886091,0,Zone 1,Married,Did not complete high school,No,Male,No,No,Yes,Total service
+428,42,0.968955761837976,0.03104423816202395,887.5551047364808,0,Zone 2,Married,Did not complete high school,No,Female,No,No,No,Basic service
+429,13,0.8292967235409884,0.17070327645901162,723.4311753323186,0,Zone 1,Unmarried,College degree,No,Male,Yes,No,Yes,Plus service
+430,69,0.976961834928002,0.023038165071997962,898.4960411112272,0,Zone 1,Married,High school degree,No,Male,No,No,No,E-service
+431,45,0.9295332384590717,0.07046676154092835,838.5075517460454,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+432,66,0.9730896165077407,0.02691038349225927,893.4175595845912,0,Zone 2,Married,High school degree,No,Male,No,No,No,E-service
+433,15,0.6961309369304811,0.3038690630695189,591.310710802421,0,Zone 2,Unmarried,High school degree,No,Male,No,Yes,No,Basic service
+434,41,0.863076335841319,0.13692366415868096,761.0076776002372,0,Zone 1,Married,Some college,No,Female,Yes,Yes,No,E-service
+435,11,0.608411866531122,0.391588133468878,512.6647125323545,0,Zone 2,Unmarried,High school degree,No,Female,Yes,Yes,Yes,Total service
+436,45,0.8230425378615777,0.17695746213842234,716.6512524648651,0,Zone 3,Married,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+437,52,0.954841623860328,0.045158376139671996,869.887451062051,0,Zone 1,Unmarried,College degree,No,Male,No,No,No,Basic service
+438,42,0.9304862932424933,0.06951370675750668,839.5887280290804,0,Zone 1,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+439,48,0.8898644955321383,0.11013550446786169,791.5288941646152,0,Zone 2,Unmarried,Did not complete high school,No,Male,Yes,No,No,Plus service
+440,4,0.6744640845156,0.3255359154844,571.6173944096395,0,Zone 3,Unmarried,High school degree,No,Male,Yes,Yes,Yes,Total service
+441,53,0.9399565261709039,0.06004347382909614,851.3892869515075,0,Zone 3,Married,High school degree,No,Female,Yes,Yes,Yes,Total service
+442,1,0.9786690516445542,0.0213309483554458,889.4695538027457,0,Zone 3,Unmarried,Did not complete high school,Yes,Male,No,No,Yes,Plus service
+443,19,0.8192755279996738,0.18072447200032615,713.4604013566136,0,Zone 3,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+444,33,0.8308888471262054,0.16911115287379463,725.6922392964536,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,Yes,Basic service
+445,42,0.9514131636940947,0.04858683630590532,865.3194872841165,0,Zone 3,Married,High school degree,No,Male,No,No,Yes,Plus service
+446,60,0.9302485496907581,0.0697514503092419,839.571892326242,0,Zone 1,Unmarried,College degree,No,Female,No,No,No,E-service
+447,57,0.9620368074875816,0.03796319251241842,879.0835448496688,0,Zone 2,Married,College degree,No,Female,No,No,Yes,Plus service
+448,64,0.8721959592035894,0.1278040407964106,770.8923352357755,0,Zone 1,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+449,28,0.754981982910253,0.24501801708974702,646.8227973206259,0,Zone 2,Married,Some college,No,Male,Yes,Yes,No,Total service
+450,29,0.9407070097207667,0.05929299027923329,851.399326834744,0,Zone 1,Married,High school degree,No,Male,No,No,Yes,Plus service
+451,46,0.9381102100294499,0.06188978997055006,848.9841228029317,0,Zone 1,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+452,22,0.8915842555583204,0.10841574444167956,792.7922898927407,0,Zone 1,Married,Some college,No,Male,No,No,No,Basic service
+453,10,0.9615084210333749,0.03849157896662514,873.7115271245636,0,Zone 2,Unmarried,High school degree,Yes,Male,No,No,No,Basic service
+454,50,0.9527333703816249,0.04726662961837513,867.1977390291345,0,Zone 3,Unmarried,High school degree,No,Female,No,No,No,E-service
+455,55,0.9877310998276835,0.012268900172316521,912.5810600968006,0,Zone 1,Unmarried,College degree,Yes,Female,Yes,No,Yes,Total service
+456,15,0.8844950297705708,0.11550497022942918,783.7169701752399,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+457,31,0.8572111243775361,0.1427888756224639,754.5606016526699,0,Zone 1,Married,Some college,No,Female,Yes,Yes,Yes,Total service
+458,5,0.9501076934559426,0.04989230654405741,855.7119002152552,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,No,E-service
+459,69,0.9857490974083709,0.014250902591629089,910.0949739812928,0,Zone 2,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+460,26,0.7916681925414455,0.2083318074585545,684.4697709290792,0,Zone 2,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+461,10,0.6740172915162328,0.3259827084837672,571.5116544287639,0,Zone 3,Married,Some college,No,Female,No,Yes,Yes,Basic service
+462,26,0.8658205220200346,0.13417947797996543,764.0444023271751,0,Zone 1,Unmarried,College degree,No,Male,Yes,No,Yes,Total service
+463,25,0.8538021019989336,0.14619789800106642,750.7330006432373,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,No,Plus service
+464,30,0.8333126610751462,0.16668733892485377,728.4021188298234,0,Zone 3,Married,Some college,No,Male,No,Yes,No,E-service
+465,21,0.9434068113115057,0.05659318868849428,853.8429557640935,0,Zone 1,Married,High school degree,No,Male,No,No,Yes,Plus service
+466,71,0.9255902585577186,0.07440974144228141,833.9305340903605,0,Zone 1,Unmarried,Post-undergraduate degree,No,Female,Yes,Yes,Yes,Total service
+467,11,0.8988031515078534,0.10119684849214661,798.6502895319809,0,Zone 3,Married,College degree,No,Male,No,Yes,Yes,Plus service
+468,24,0.8448986796184795,0.15510132038152047,740.9858619273496,0,Zone 1,Married,Did not complete high school,No,Female,No,No,Yes,Basic service
+469,65,0.992694954913217,0.00730504508678298,919.4354377638724,0,Zone 1,Married,College degree,No,Male,No,No,No,E-service
+470,16,0.8812094257453563,0.11879057425464368,780.2427294274748,0,Zone 1,Married,Some college,No,Female,No,No,No,Basic service
+471,37,0.9907103765725223,0.009289623427477744,916.2733813922665,0,Zone 3,Married,College degree,No,Male,No,No,No,E-service
+472,5,0.8686754186799305,0.13132458132006952,761.3206438668963,0,Zone 1,Unmarried,Some college,No,Male,No,No,Yes,Plus service
+473,3,0.9334314455256217,0.06656855447437826,832.3271323108168,0,Zone 1,Married,Post-undergraduate degree,No,Female,Yes,Yes,No,E-service
+474,5,0.5752208233392421,0.42477917666075793,485.7181411442001,1,Zone 1,Unmarried,College degree,No,Male,No,Yes,No,Basic service
+475,60,0.9337582034572803,0.06624179654271967,843.8602109284238,0,Zone 1,Married,High school degree,No,Male,Yes,No,Yes,Total service
+476,19,0.8729974912303248,0.12700250876967523,771.5384825145997,0,Zone 2,Married,High school degree,No,Female,No,Yes,No,E-service
+477,54,0.8859476924573354,0.1140523075426646,786.9352618120267,0,Zone 3,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+478,25,0.9028869695250066,0.09711303047499342,806.057519321175,0,Zone 2,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+479,1,0.9460294678985536,0.05397053210144642,843.8499880758923,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,No,E-service
+480,54,0.8838474769650695,0.11615252303493051,784.5031655408494,0,Zone 3,Unmarried,Some college,No,Female,No,Yes,No,Basic service
+481,14,0.8478922630809282,0.15210773691907176,743.3659214098251,0,Zone 1,Married,Some college,No,Female,No,No,No,Basic service
+482,14,0.8226283716465276,0.17737162835347242,716.597788487201,0,Zone 3,Married,High school degree,No,Male,No,No,No,Basic service
+483,10,0.9217429859466113,0.0782570140533887,824.7573069079931,0,Zone 2,Married,Some college,No,Female,No,Yes,No,E-service
+484,7,0.6694732599851796,0.3305267400148204,567.5808516589325,0,Zone 1,Unmarried,High school degree,No,Female,No,No,Yes,Basic service
+485,33,0.966077932265923,0.03392206773407702,883.4387796934351,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+486,3,0.33485999520987614,0.6651400047901239,296.7053792826766,1,Zone 1,Unmarried,High school degree,No,Male,Yes,Yes,No,Basic service
+487,56,0.928880503378762,0.07111949662123795,837.8754560770088,0,Zone 2,Married,Did not complete high school,No,Male,No,No,No,Basic service
+488,54,0.9531884675541674,0.04681153244583258,867.8508555450089,0,Zone 2,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+489,72,0.9910753259142643,0.008924674085735718,917.2830212296324,0,Zone 1,Married,Did not complete high school,No,Male,No,No,No,E-service
+490,18,0.7571434172105772,0.2428565827894228,649.9587147536871,0,Zone 1,Unmarried,High school degree,No,Male,No,Yes,Yes,Plus service
+491,25,0.8038212711083127,0.1961787288916873,697.1801219199608,0,Zone 3,Unmarried,College degree,No,Male,No,No,No,Basic service
+492,42,0.9604136935944995,0.03958630640550054,876.6405359124611,0,Zone 1,Unmarried,Did not complete high school,Yes,Female,No,No,No,Basic service
+493,4,0.5689263892537033,0.4310736107462967,480.6124271728143,1,Zone 3,Unmarried,High school degree,No,Male,No,Yes,No,Basic service
+494,12,0.9467777280306993,0.05322227196930074,855.8732223838318,0,Zone 2,Married,College degree,No,Male,No,No,No,Basic service
+495,53,0.9871147692953702,0.012885230704629769,911.719146628736,0,Zone 2,Married,High school degree,No,Female,No,No,Yes,Plus service
+496,13,0.8374180630588856,0.16258193694111445,732.0009295855534,0,Zone 2,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+497,18,0.9522205148718168,0.0477794851281832,864.2547734136075,0,Zone 3,Married,Some college,No,Male,No,No,No,E-service
+498,67,0.9605285415093459,0.03947145849065414,877.3068654402261,0,Zone 3,Married,Some college,No,Female,Yes,No,Yes,Total service
+499,6,0.8193677409566652,0.1806322590433348,710.5256237061627,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,No,Plus service
+500,25,0.914835719971052,0.08516428002894805,820.0137243089052,0,Zone 1,Unmarried,Did not complete high school,No,Female,Yes,No,Yes,Plus service
+501,15,0.9325802016058509,0.06741979839414913,839.4819771297663,0,Zone 2,Unmarried,High school degree,No,Male,Yes,No,No,E-service
+502,32,0.9308916482270962,0.06910835177290375,839.6697050036013,0,Zone 3,Unmarried,College degree,No,Male,No,No,No,E-service
+503,22,0.8166753223579755,0.18332467764202454,710.7568517418381,0,Zone 2,Unmarried,College degree,No,Male,No,Yes,No,E-service
+504,8,0.7349125065523522,0.2650874934476478,628.2642887186684,0,Zone 2,Unmarried,College degree,No,Male,Yes,No,Yes,Plus service
+505,3,0.637090446965957,0.36290955303404304,538.4553045278197,0,Zone 1,Married,Did not complete high school,No,Male,No,Yes,No,Basic service
+506,32,0.8884924420276077,0.11150755797239231,789.8290778539249,0,Zone 2,Unmarried,High school degree,No,Male,No,No,No,Basic service
+507,49,0.9808924291782984,0.01910757082170156,903.337710622593,0,Zone 1,Unmarried,High school degree,No,Male,No,No,Yes,E-service
+508,2,0.9138295693708115,0.0861704306291885,807.0269021854546,0,Zone 2,Unmarried,Some college,No,Female,No,No,No,Total service
+509,39,0.8710653308607068,0.1289346691392932,770.042482515489,0,Zone 1,Unmarried,College degree,No,Female,No,Yes,No,E-service
+510,42,0.9003873443150612,0.09961265568493882,803.7728487292032,0,Zone 1,Unmarried,High school degree,No,Male,No,No,No,E-service
+511,28,0.8643437092157408,0.13565629078425923,762.4547873696766,0,Zone 1,Unmarried,Some college,No,Male,Yes,No,Yes,Total service
+512,41,0.9558601129988454,0.044139887001154565,870.854808681719,0,Zone 2,Married,High school degree,No,Male,Yes,No,Yes,Total service
+513,67,0.9906115387747089,0.009388461225291134,916.6140099722826,0,Zone 3,Married,High school degree,No,Male,No,No,No,E-service
+514,38,0.8963367153152134,0.10366328468478658,799.0030105156545,0,Zone 1,Unmarried,High school degree,No,Female,No,Yes,No,E-service
+515,18,0.7874048516202272,0.21259514837977278,680.4304764228652,0,Zone 2,Unmarried,High school degree,No,Female,Yes,Yes,Yes,Total service
+516,6,0.972074730582083,0.027925269417916954,885.5488354546814,0,Zone 2,Married,High school degree,No,Female,Yes,No,Yes,Total service
+517,4,0.7317160304270688,0.2682839695729312,623.802730277487,0,Zone 2,Unmarried,High school degree,No,Female,No,No,No,Basic service
+518,13,0.7259088929238913,0.27409110707610873,619.8086784365422,0,Zone 1,Married,Some college,No,Female,Yes,Yes,Yes,Total service
+519,20,0.7348895920773217,0.26511040792267826,627.8142135471155,0,Zone 1,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+520,34,0.987139694799021,0.012860305200979028,911.2651759290952,0,Zone 1,Married,Some college,No,Female,No,No,Yes,Plus service
+521,46,0.8351060497651605,0.16489395023483955,729.7776240701256,0,Zone 1,Married,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+522,48,0.96167769679277,0.03832230320722996,878.4314846918111,0,Zone 1,Unmarried,High school degree,No,Male,No,No,No,E-service
+523,69,0.9662430690648703,0.03375693093512966,884.6234288941861,0,Zone 3,Married,High school degree,No,Male,Yes,No,Yes,Plus service
+524,32,0.8677866094931987,0.13221339050680125,766.3549870557339,0,Zone 1,Married,High school degree,No,Male,No,No,No,Basic service
+525,29,0.9056238019838372,0.09437619801616282,809.5126447122296,0,Zone 1,Unmarried,High school degree,No,Male,No,No,Yes,E-service
+526,55,0.9609672604735441,0.03903273952645592,877.6874341584569,0,Zone 3,Unmarried,Did not complete high school,No,Female,Yes,No,No,E-service
+527,72,0.9945265918794876,0.005473408120512446,921.9980561153022,0,Zone 3,Married,Did not complete high school,No,Female,No,No,Yes,Plus service
+528,29,0.7154215961294257,0.2845784038705743,607.5071271568404,0,Zone 3,Unmarried,Some college,No,Female,Yes,No,No,Basic service
+529,50,0.8805990540830694,0.11940094591693062,780.8063410941418,0,Zone 2,Married,College degree,No,Female,Yes,No,Yes,Total service
+530,35,0.9268518889795393,0.0731481110204607,834.9545060818948,0,Zone 3,Married,Some college,No,Male,No,No,No,Basic service
+531,11,0.8312735376677993,0.16872646233220068,725.0569531988034,0,Zone 3,Unmarried,Some college,No,Male,No,Yes,No,Basic service
+532,9,0.7648689831208971,0.23513101687910287,657.354320053954,0,Zone 1,Unmarried,Some college,No,Female,No,No,No,Basic service
+533,51,0.972479232452305,0.027520767547694946,892.3684320452471,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+534,33,0.8662647003496343,0.13373529965036568,764.6536150977018,0,Zone 1,Married,Did not complete high school,No,Female,No,Yes,No,E-service
+535,25,0.8153597918891765,0.1846402081108235,709.3202298870829,0,Zone 1,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+536,31,0.9048724097668318,0.09512759023316819,808.7373464664197,0,Zone 3,Unmarried,College degree,No,Female,No,No,No,Plus service
+537,67,0.8979371560488462,0.10206284395115384,800.8167127259954,0,Zone 2,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+538,55,0.908899368140792,0.09110063185920803,813.861299614859,0,Zone 3,Unmarried,High school degree,No,Male,Yes,No,Yes,Plus service
+539,19,0.9214135270046035,0.07858647299539645,827.0149568749205,0,Zone 3,Unmarried,College degree,No,Female,Yes,No,No,Total service
+540,39,0.864774936883197,0.13522506311680305,762.9467734233522,0,Zone 1,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+541,52,0.9122450982048304,0.08775490179516965,817.8336933233431,0,Zone 2,Married,College degree,No,Male,Yes,No,Yes,Plus service
+542,55,0.9552232651430717,0.044776734856928346,870.4260979254152,0,Zone 3,Married,High school degree,No,Female,No,No,Yes,Plus service
+543,25,0.9838062451685017,0.01619375483149832,906.2233768457613,0,Zone 2,Unmarried,College degree,Yes,Female,Yes,No,Yes,Total service
+544,33,0.9192026305399517,0.08079736946004834,825.7142934403203,0,Zone 3,Unmarried,High school degree,Yes,Female,No,No,No,Basic service
+545,48,0.9034544597410916,0.09654554025890838,807.4100536219277,0,Zone 2,Unmarried,College degree,No,Male,No,No,Yes,Plus service
+546,48,0.8685119288939613,0.13148807110603866,767.0221579171501,0,Zone 2,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+547,49,0.8976757862951903,0.10232421370480971,800.6285595641857,0,Zone 2,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+548,54,0.913687228557387,0.08631277144261296,819.5610392646178,0,Zone 3,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+549,45,0.8801546941620216,0.11984530583797837,780.3489944792773,0,Zone 1,Married,Did not complete high school,No,Male,No,No,No,Basic service
+550,4,0.6625037674960117,0.3374962325039883,560.9880297291345,0,Zone 3,Married,High school degree,No,Female,No,Yes,No,Basic service
+551,49,0.831442219498286,0.168557780501714,725.6250143021362,0,Zone 3,Married,Some college,No,Female,Yes,Yes,No,E-service
+552,23,0.7560271916118172,0.2439728083881828,648.407621897883,0,Zone 2,Unmarried,Some college,No,Male,Yes,Yes,Yes,Total service
+553,31,0.9283525364099641,0.07164746359003593,836.5494579472822,0,Zone 2,Unmarried,Post-undergraduate degree,No,Male,No,Yes,No,E-service
+554,55,0.9419071651336612,0.05809283486633876,853.8255660229341,0,Zone 2,Married,High school degree,No,Male,No,No,Yes,Plus service
+555,9,0.7438965111242374,0.2561034888757626,637.003930206254,0,Zone 1,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+556,55,0.9680566903129282,0.03194330968707182,886.7443001113286,0,Zone 2,Married,High school degree,No,Male,No,No,No,Basic service
+557,34,0.8339513079652232,0.1660486920347768,728.9813927548443,0,Zone 1,Unmarried,High school degree,No,Female,Yes,No,Yes,Plus service
+558,10,0.8271842307592174,0.17281576924078257,720.4899954198983,0,Zone 1,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+559,62,0.9914233554740461,0.008576644525953858,917.6714214823636,0,Zone 2,Unmarried,Some college,Yes,Female,No,No,No,E-service
+560,51,0.8558709154323245,0.14412908456767548,752.6707208539942,0,Zone 2,Unmarried,Some college,No,Male,Yes,Yes,Yes,Total service
+561,65,0.9784976908811389,0.021502309118861085,900.4590975657735,0,Zone 1,Unmarried,Did not complete high school,No,Male,No,No,No,E-service
+562,53,0.8727767019611187,0.12722329803888133,771.7862743281453,0,Zone 3,Unmarried,Did not complete high school,No,Male,Yes,No,Yes,Total service
+563,23,0.6439267548429893,0.35607324515701066,541.2083803781275,0,Zone 1,Unmarried,High school degree,No,Male,Yes,Yes,No,Basic service
+564,1,0.4896578417216365,0.5103421582783635,417.10196992071315,1,Zone 3,Unmarried,College degree,No,Male,No,Yes,No,Basic service
+565,66,0.9705608348715142,0.029439165128485767,890.1441440459882,0,Zone 3,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+566,8,0.79228279826934,0.20771720173066,684.2019232715561,0,Zone 3,Married,Some college,No,Female,No,Yes,No,E-service
+567,18,0.8072602219874575,0.1927397780125425,700.8709906740303,0,Zone 3,Married,Did not complete high school,No,Female,No,No,No,Basic service
+568,36,0.8666275199587569,0.13337248004124314,765.0562510649671,0,Zone 3,Married,College degree,No,Male,No,Yes,No,E-service
+569,13,0.8697620215589964,0.1302379784410036,766.8811080487906,0,Zone 1,Unmarried,High school degree,No,Female,No,No,No,Basic service
+570,4,0.8207943202005483,0.17920567979945168,710.1985090294988,0,Zone 3,Unmarried,Some college,No,Female,Yes,Yes,Yes,Plus service
+571,20,0.8328941244454072,0.16710587555459278,727.9334566443204,0,Zone 3,Unmarried,Some college,No,Male,No,Yes,No,E-service
+572,66,0.9000847317453712,0.09991526825462882,803.3628849999703,0,Zone 1,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+573,67,0.9568636183067967,0.04313638169320333,872.6622725341998,0,Zone 3,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+574,11,0.7021469945083122,0.2978530054916878,597.4346084107984,0,Zone 1,Married,High school degree,No,Female,Yes,Yes,Yes,Total service
+575,6,0.5474129692966805,0.4525870307033195,462.21340309194875,1,Zone 1,Unmarried,Some college,No,Female,No,Yes,No,Basic service
+576,13,0.5726850707984602,0.4273149292015398,481.11706226196384,1,Zone 2,Married,Did not complete high school,No,Female,Yes,Yes,No,Basic service
+577,2,0.7412988926520235,0.25870110734797647,630.7421881077478,0,Zone 2,Married,High school degree,No,Female,Yes,Yes,Yes,Total service
+578,4,0.8549987258420763,0.14500127415792374,745.5657087972003,0,Zone 1,Unmarried,High school degree,No,Male,No,No,No,Basic service
+579,34,0.9357253333999287,0.0642746666000713,845.6400190748589,0,Zone 1,Married,High school degree,No,Female,Yes,Yes,Yes,Total service
+580,13,0.9313787128328688,0.06862128716713123,837.4415075304066,0,Zone 1,Married,Some college,No,Male,No,No,No,Plus service
+581,37,0.9669359966769855,0.03306400332301451,884.7519120943257,0,Zone 2,Married,High school degree,No,Male,No,No,No,E-service
+582,45,0.9263636695475541,0.07363633045244589,834.6741189608188,0,Zone 1,Married,High school degree,No,Male,No,No,Yes,Plus service
+583,71,0.9909646041998738,0.009035395800126245,917.1254052177786,0,Zone 2,Unmarried,Some college,Yes,Female,No,No,Yes,Plus service
+584,35,0.8438844454698918,0.15611555453010817,739.8051741423486,0,Zone 1,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+585,44,0.8458819202443221,0.15411807975567793,741.7415440728462,0,Zone 3,Unmarried,Some college,No,Male,No,Yes,No,Basic service
+586,44,0.9729287238629534,0.02707127613704663,892.7628072112255,0,Zone 3,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+587,26,0.9297540963257662,0.07024590367423378,837.8541460084332,0,Zone 1,Married,Did not complete high school,No,Female,No,No,No,Basic service
+588,42,0.9137479678994828,0.08625203210051724,819.5140441633196,0,Zone 2,Married,Did not complete high school,No,Female,No,No,No,Basic service
+589,41,0.8440604360391505,0.15593956396084951,739.8254158154415,0,Zone 2,Married,High school degree,No,Male,No,Yes,No,Basic service
+590,31,0.8163959699305072,0.18360403006949277,710.1995772147093,0,Zone 1,Married,Did not complete high school,No,Male,No,No,No,Basic service
+591,62,0.969889754733347,0.030110245266652957,889.2234943562653,0,Zone 3,Unmarried,High school degree,No,Male,Yes,Yes,No,Plus service
+592,12,0.7148312131574442,0.28516878684255575,609.3133403421837,0,Zone 1,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+593,45,0.9855581134646446,0.014441886535355386,909.4640005774171,0,Zone 2,Married,High school degree,No,Female,No,No,Yes,Plus service
+594,47,0.8717852192995723,0.1282147807004277,770.7615535800546,0,Zone 1,Married,High school degree,No,Female,No,No,No,Basic service
+595,23,0.871289761754703,0.12871023824529704,769.9915317099224,0,Zone 2,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+596,39,0.8015632954930748,0.1984367045069252,693.9670286912275,0,Zone 3,Unmarried,Post-undergraduate degree,No,Female,Yes,Yes,Yes,Total service
+597,19,0.7836502457103491,0.21634975428965086,676.5796717087359,0,Zone 2,Unmarried,Some college,No,Male,Yes,No,Yes,Plus service
+598,13,0.966240700465839,0.033759299534161014,880.9419147291869,0,Zone 1,Unmarried,College degree,No,Male,No,No,Yes,Plus service
+599,5,0.9167710625402264,0.08322893745977356,815.2085677416125,0,Zone 2,Unmarried,Some college,No,Male,No,No,Yes,Total service
+600,11,0.6443262553366383,0.35567374466336166,544.4664467716073,0,Zone 2,Unmarried,High school degree,No,Male,No,No,No,Basic service
+601,4,0.7185009307972913,0.28149906920270873,611.5538890461148,0,Zone 3,Unmarried,College degree,No,Male,No,No,No,Basic service
+602,17,0.8058069915718856,0.19419300842811438,699.3350854631491,0,Zone 3,Unmarried,Did not complete high school,No,Male,Yes,Yes,No,E-service
+603,7,0.6983730117240784,0.3016269882759216,593.9232738898932,0,Zone 2,Unmarried,Some college,No,Male,No,No,Yes,Basic service
+604,19,0.9632344832314503,0.036765516768549666,878.3821777121613,0,Zone 1,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+605,32,0.9241331082814513,0.07586689171854866,831.5454541050125,0,Zone 2,Married,Did not complete high school,No,Male,No,No,No,E-service
+606,53,0.9847486779997362,0.0152513220002638,908.545829540565,0,Zone 2,Unmarried,College degree,No,Male,No,No,No,E-service
+607,51,0.9197195899383958,0.08028041006160425,826.763304862787,0,Zone 1,Unmarried,Did not complete high school,No,Female,Yes,No,Yes,Plus service
+608,35,0.8318239139710063,0.1681760860289937,726.6359503930903,0,Zone 1,Unmarried,College degree,No,Female,No,No,No,Basic service
+609,3,0.9043425256644749,0.09565747433552507,798.071407559293,0,Zone 1,Married,College degree,No,Male,Yes,No,Yes,Total service
+610,22,0.770178703227106,0.22982129677289398,662.7373283125925,0,Zone 1,Unmarried,College degree,No,Male,No,Yes,No,Basic service
+611,17,0.858304961095378,0.14169503890462198,755.1068716438307,0,Zone 3,Married,High school degree,No,Female,No,No,Yes,Plus service
+612,68,0.9575989991222953,0.04240100087770471,873.6026887995176,0,Zone 2,Unmarried,High school degree,No,Female,No,No,No,E-service
+613,27,0.9463938043858409,0.053606195614159136,858.223571065024,0,Zone 2,Married,College degree,No,Female,No,No,No,Plus service
+614,68,0.9649437148486631,0.03505628515133685,882.9479063770539,0,Zone 3,Married,Some college,No,Female,No,No,Yes,Plus service
+615,56,0.9540237042520249,0.04597629574797513,868.935168727812,0,Zone 3,Married,High school degree,No,Male,No,No,Yes,Plus service
+616,11,0.6410529028548196,0.35894709714518036,541.5343263509604,0,Zone 3,Unmarried,High school degree,No,Female,No,Yes,No,Basic service
+617,5,0.8587366285198439,0.1412633714801561,750.6684898551235,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,Yes,Basic service
+618,16,0.9369060844802224,0.06309391551977761,844.9626781893966,0,Zone 3,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+619,59,0.8743307780790646,0.12566922192093544,773.4498369193642,0,Zone 2,Unmarried,College degree,No,Female,Yes,No,No,E-service
+620,60,0.9641483534266744,0.035851646573325624,881.824777445548,0,Zone 1,Unmarried,High school degree,Yes,Male,Yes,No,Yes,Total service
+621,55,0.9441994105016936,0.05580058949830635,856.6615090606854,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,No,Plus service
+622,18,0.9445390180983072,0.055460981901692796,854.7241920326984,0,Zone 1,Unmarried,High school degree,No,Male,No,No,No,Basic service
+623,16,0.8326759239537854,0.16732407604621458,727.4206603305198,0,Zone 2,Unmarried,Some college,No,Female,No,No,No,E-service
+624,35,0.9842366228736318,0.015763377126368217,907.3685916586911,0,Zone 1,Married,College degree,No,Male,No,Yes,No,E-service
+625,31,0.7751125107558313,0.22488748924416868,666.9933971676501,0,Zone 3,Married,Some college,No,Female,Yes,Yes,Yes,Total service
+626,20,0.9022749677866538,0.09772503221334616,804.8143677146655,0,Zone 2,Married,High school degree,No,Female,No,No,No,Basic service
+627,16,0.7070115463752378,0.2929884536247622,601.4497027090413,0,Zone 2,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+628,69,0.9828651226830818,0.017134877316918207,906.2615772300749,0,Zone 2,Married,High school degree,No,Male,No,No,Yes,Plus service
+629,69,0.9831051264897012,0.016894873510298836,906.5795168763391,0,Zone 3,Married,High school degree,No,Male,No,No,No,Basic service
+630,27,0.8086528939426589,0.19134710605734107,702.1696163740019,0,Zone 2,Married,Did not complete high school,No,Female,No,No,No,Basic service
+631,48,0.9478091065148007,0.05219089348519934,861.0052386770512,0,Zone 3,Unmarried,College degree,No,Male,No,No,Yes,Plus service
+632,18,0.8938915066498606,0.10610849335013939,794.9066151319945,0,Zone 1,Married,Did not complete high school,No,Female,No,Yes,Yes,Basic service
+633,24,0.9367211212645133,0.06327887873548665,846.0681429683822,0,Zone 2,Married,Some college,No,Female,No,No,Yes,Plus service
+634,17,0.8913453589423102,0.10865464105768985,791.8419581471558,0,Zone 2,Unmarried,High school degree,No,Male,Yes,No,No,Total service
+635,9,0.7659227933075259,0.23407720669247412,658.386499706247,0,Zone 2,Married,College degree,No,Female,No,No,Yes,Basic service
+636,15,0.8026870072200681,0.19731299277993186,696.0151101459276,0,Zone 2,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+637,62,0.9551434365588217,0.04485656344117828,870.4331715087945,0,Zone 1,Married,College degree,No,Female,No,No,No,E-service
+638,9,0.6336554808316718,0.3663445191683282,535.3610686301494,0,Zone 1,Unmarried,College degree,No,Male,Yes,Yes,No,Basic service
+639,71,0.9536590121001697,0.04634098789983032,868.657022198802,0,Zone 2,Married,High school degree,No,Female,No,No,Yes,Plus service
+640,62,0.9950320138894245,0.004967986110575473,922.6342189715774,0,Zone 2,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+641,20,0.894970456865206,0.10502954313479396,796.4287930612142,0,Zone 2,Unmarried,College degree,No,Male,No,Yes,Yes,Total service
+642,19,0.9409115821957136,0.05908841780428642,850.4603753711232,0,Zone 1,Married,Did not complete high school,No,Male,No,No,No,Plus service
+643,49,0.9927755656110581,0.007224434388941936,919.3737756883023,0,Zone 2,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+644,3,0.924099106403131,0.07590089359686902,821.0820851296022,0,Zone 3,Unmarried,High school degree,Yes,Male,No,No,No,Basic service
+645,33,0.6873749143279311,0.3126250856720689,579.7871369432345,0,Zone 1,Unmarried,Post-undergraduate degree,No,Male,Yes,Yes,No,Basic service
+646,38,0.8612026156552013,0.1387973843447987,758.9515384181158,0,Zone 2,Unmarried,College degree,No,Female,No,Yes,No,E-service
+647,42,0.959045107391399,0.04095489260860097,874.9079179062754,0,Zone 3,Married,Some college,No,Female,Yes,No,Yes,Total service
+648,11,0.6533050942035287,0.34669490579647133,552.544773294637,0,Zone 1,Unmarried,Some college,No,Male,Yes,Yes,Yes,Total service
+649,27,0.8901871164954084,0.10981288350459162,791.5717049506882,0,Zone 3,Married,Some college,No,Male,No,No,No,Plus service
+650,23,0.8470162807664469,0.15298371923355314,743.2613270135063,0,Zone 3,Unmarried,College degree,No,Female,No,No,No,Basic service
+651,4,0.9455304265156194,0.05446957348438064,848.7773433676989,0,Zone 2,Married,High school degree,No,Male,Yes,No,Yes,Plus service
+652,36,0.8515739548672799,0.14842604513272006,748.2630742016295,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+653,37,0.9295268649067456,0.07047313509325437,838.2621987874564,0,Zone 2,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+654,24,0.9808897222241478,0.01911027777585217,902.1900830577529,0,Zone 3,Married,Did not complete high school,No,Male,No,No,No,Basic service
+655,4,0.6429444595952382,0.35705554040476184,543.7908646080808,0,Zone 3,Unmarried,High school degree,No,Male,No,No,No,Basic service
+656,54,0.90200262711563,0.09799737288437005,805.7013513383582,0,Zone 3,Unmarried,High school degree,No,Female,No,No,No,Plus service
+657,7,0.9533867691751635,0.04661323082483648,861.5974201291198,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+658,10,0.7120826227198325,0.28791737728016753,606.8014602964442,0,Zone 1,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+659,24,0.8930129117535706,0.10698708824642944,794.6040672573864,0,Zone 3,Married,Post-undergraduate degree,No,Female,No,Yes,No,E-service
+660,12,0.641849896524948,0.35815010347505205,542.0255514875649,0,Zone 3,Unmarried,College degree,No,Male,No,Yes,No,Basic service
+661,45,0.9770859171810065,0.022914082818993542,898.2199089569879,0,Zone 2,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+662,59,0.9923443595426635,0.007655640457336466,918.9004840160922,0,Zone 3,Married,Some college,No,Female,No,No,No,E-service
+663,3,0.7181790387387645,0.28182096126123546,610.5548144104829,0,Zone 1,Married,Some college,No,Female,No,No,No,Basic service
+664,8,0.7271584669949236,0.2728415330050764,620.9092589847685,0,Zone 3,Unmarried,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+665,16,0.967552802939106,0.03244719706089405,883.4012391096908,0,Zone 1,Unmarried,High school degree,No,Female,No,No,Yes,Total service
+666,32,0.7986494371925523,0.20135056280744767,691.3655070567944,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+667,8,0.8656532460958412,0.13434675390415884,760.4121311546033,0,Zone 1,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+668,9,0.8504874277086204,0.1495125722913796,744.6437183290726,0,Zone 1,Married,Some college,No,Male,No,Yes,No,E-service
+669,12,0.8714664138118381,0.1285335861881619,768.4653895932629,0,Zone 2,Married,High school degree,No,Female,No,No,No,E-service
+670,24,0.8958827214297512,0.10411727857024877,797.8938769532442,0,Zone 2,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+671,72,0.9987663415849456,0.001233658415054406,927.9312617682973,0,Zone 3,Unmarried,High school degree,Yes,Female,No,No,No,E-service
+672,58,0.9843097657931462,0.01569023420685378,908.0418627365082,0,Zone 3,Unmarried,College degree,No,Female,No,Yes,No,E-service
+673,70,0.9625347441786973,0.03746525582130267,879.8924544193126,0,Zone 1,Married,High school degree,No,Male,Yes,No,Yes,Plus service
+674,9,0.6938710819132002,0.30612891808679976,589.8362580154583,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+675,49,0.7850687017319075,0.21493129826809254,675.8223394614879,0,Zone 1,Unmarried,Post-undergraduate degree,No,Female,Yes,Yes,No,E-service
+676,52,0.9478990773837053,0.05210092261629473,861.2037340450885,0,Zone 3,Unmarried,Some college,No,Male,No,No,No,Plus service
+677,10,0.8667794614405172,0.1332205385594828,762.6192353195449,0,Zone 1,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+678,14,0.9328376610138245,0.06716233898617552,839.511079259168,0,Zone 1,Married,Some college,No,Male,Yes,No,No,Plus service
+679,19,0.8681113997208358,0.13188860027916416,766.1195464999269,0,Zone 1,Married,High school degree,No,Male,Yes,No,Yes,Total service
+680,12,0.8040795673512346,0.19592043264876535,697.1170243800381,0,Zone 3,Married,College degree,No,Female,Yes,Yes,No,E-service
+681,65,0.9758990756778901,0.024100924322109862,897.0598001772813,0,Zone 1,Unmarried,Some college,No,Female,Yes,No,Yes,E-service
+682,67,0.9584277959673984,0.041572204032601645,874.6415262275482,0,Zone 1,Married,Some college,No,Male,No,No,Yes,Plus service
+683,29,0.8896969067049758,0.11030309329502419,791.1065767682751,0,Zone 2,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+684,55,0.8328541602317584,0.1671458397682416,726.9106440130048,0,Zone 3,Unmarried,High school degree,No,Female,No,Yes,Yes,Basic service
+685,71,0.992447886891041,0.00755211310895898,919.1427623447134,0,Zone 3,Married,Did not complete high school,No,Female,No,No,Yes,Plus service
+686,5,0.79943670731134,0.20056329268866002,689.7025059001247,0,Zone 3,Married,Some college,No,Female,Yes,Yes,Yes,Plus service
+687,60,0.9508157168989163,0.04918428310108369,864.972451032285,0,Zone 3,Unmarried,College degree,No,Female,No,No,No,E-service
+688,10,0.670806277591383,0.329193722408617,568.5804699744383,0,Zone 2,Unmarried,Some college,No,Female,No,Yes,No,Basic service
+689,52,0.9782708306438463,0.021729169356153655,899.9477580390518,0,Zone 3,Unmarried,Some college,No,Male,Yes,Yes,Yes,Total service
+690,61,0.9507582759160722,0.049241724083927796,864.9134524335261,0,Zone 2,Married,High school degree,No,Male,No,Yes,No,E-service
+691,61,0.9323424499179852,0.0676575500820148,842.1352945971755,0,Zone 1,Married,High school degree,No,Male,No,No,No,E-service
+692,67,0.9737300061181641,0.02626999388183593,894.2613601664339,0,Zone 2,Married,Some college,No,Male,No,No,Yes,Plus service
+693,41,0.9239343200454607,0.07606567995453928,831.6559962691301,0,Zone 3,Married,College degree,No,Male,No,Yes,Yes,E-service
+694,30,0.775310212368825,0.22468978763117498,667.2866612546061,0,Zone 1,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+695,24,0.9258932562800495,0.07410674371995052,833.0248705751865,0,Zone 1,Unmarried,High school degree,No,Male,Yes,No,Yes,Total service
+696,72,0.9969717139582617,0.003028286041738326,925.3923939876153,0,Zone 1,Unmarried,Did not complete high school,Yes,Female,No,No,No,E-service
+697,17,0.7643033446918046,0.2356966553081954,657.1475691441898,0,Zone 2,Unmarried,High school degree,No,Male,Yes,Yes,Yes,Total service
+698,65,0.9975411633495879,0.002458836650412133,926.1667797431428,0,Zone 2,Unmarried,High school degree,Yes,Male,No,No,Yes,Plus service
+699,15,0.859779597793566,0.14022040220643395,756.4053381820353,0,Zone 1,Married,High school degree,No,Male,No,Yes,Yes,Total service
+700,34,0.9148870703484211,0.0851129296515789,820.6374106268279,0,Zone 1,Unmarried,Some college,No,Female,No,No,No,E-service
+701,26,0.9255767242697459,0.07442327573025409,832.8454975778556,0,Zone 1,Unmarried,Post-undergraduate degree,No,Female,No,Yes,No,E-service
+702,36,0.9700581712614368,0.029941828738563214,888.7270502300219,0,Zone 2,Unmarried,Some college,No,Female,No,No,No,E-service
+703,60,0.9744927912203623,0.025507208779637747,895.1558421571722,0,Zone 1,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+704,16,0.978091082904299,0.021908917095700975,897.3887941860885,0,Zone 1,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+705,1,0.7664957494852501,0.23350425051474988,652.388795705069,0,Zone 2,Unmarried,College degree,No,Female,No,No,No,Basic service
+706,56,0.8656108153960382,0.13438918460396176,763.5488737436802,0,Zone 3,Married,Post-undergraduate degree,No,Male,Yes,Yes,No,E-service
+707,6,0.9622544389839351,0.037745561016064855,872.3294369262957,0,Zone 2,Unmarried,High school degree,No,Male,No,No,No,E-service
+708,48,0.9190286905909616,0.0809713094090384,825.9027379621768,0,Zone 2,Unmarried,Some college,No,Female,No,No,No,E-service
+709,34,0.9579589390613923,0.04204106093860771,873.1707358057205,0,Zone 2,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+710,54,0.8666472737224662,0.1333527262775338,764.7751161479431,0,Zone 2,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+711,38,0.8906877688543039,0.1093122311456961,792.4632026781588,0,Zone 3,Married,High school degree,No,Female,Yes,No,Yes,Total service
+712,25,0.9192626536435081,0.08073734635649188,825.240282429272,0,Zone 2,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+713,47,0.9613400993658842,0.03865990063411584,877.9752936042345,0,Zone 1,Married,Some college,No,Female,Yes,Yes,Yes,Total service
+714,72,0.9768803224451528,0.02311967755484723,898.4215911496311,0,Zone 1,Married,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+715,6,0.8756618182555214,0.12433818174447864,769.8620090912447,0,Zone 2,Married,College degree,No,Female,No,Yes,Yes,Total service
+716,30,0.9228714543626778,0.07712854563732219,829.9201202843318,0,Zone 1,Married,Post-undergraduate degree,No,Female,No,No,No,Basic service
+717,65,0.9776920344117671,0.022307965588232892,899.403218673765,0,Zone 1,Married,High school degree,Yes,Female,Yes,No,Yes,Total service
+718,22,0.9566399849708659,0.043360015029134114,870.4467485147645,0,Zone 1,Married,College degree,No,Male,Yes,No,Yes,Plus service
+719,60,0.9823494528793687,0.0176505471206313,905.4672310502345,0,Zone 1,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+720,19,0.7835715428757439,0.21642845712425607,676.4994988440799,0,Zone 2,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+721,18,0.7397560331848017,0.26024396681519835,632.8021347260621,0,Zone 3,Unmarried,High school degree,No,Female,No,No,No,Basic service
+722,9,0.8807076959112183,0.11929230408878166,777.4326971191452,0,Zone 1,Married,College degree,No,Female,No,No,No,Basic service
+723,1,0.6902090671116319,0.3097909328883681,583.1865349263195,0,Zone 1,Married,Did not complete high school,No,Female,No,Yes,No,Basic service
+724,10,0.7373172031968879,0.26268279680311213,630.7755985404092,0,Zone 3,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+725,45,0.9121915496014626,0.08780845039853735,817.7128747287926,0,Zone 3,Married,College degree,No,Male,No,Yes,No,E-service
+726,25,0.8701333211119223,0.12986667888807768,768.8111762238337,0,Zone 1,Married,College degree,No,Female,Yes,No,Yes,Plus service
+727,66,0.9212673724764869,0.07873262752351307,828.6867206932201,0,Zone 3,Unmarried,High school degree,No,Female,No,No,No,E-service
+728,27,0.9334389594511677,0.06656104054883227,842.3893078506884,0,Zone 1,Unmarried,College degree,Yes,Female,Yes,No,Yes,Plus service
+729,19,0.8233992897269578,0.17660071027304225,717.8086159224888,0,Zone 1,Unmarried,College degree,No,Male,No,No,No,Basic service
+730,17,0.890269156183592,0.10973084381640796,790.6224619993475,0,Zone 2,Married,College degree,No,Male,No,No,No,Basic service
+731,16,0.8384092629286642,0.16159073707133575,733.5193185546526,0,Zone 2,Unmarried,College degree,No,Male,No,No,Yes,Basic service
+732,8,0.7242356454857574,0.27576435451424264,618.1486559446721,0,Zone 1,Married,College degree,No,Female,No,Yes,No,Basic service
+733,3,0.5657841081744004,0.4342158918255996,478.10848033416704,1,Zone 1,Unmarried,College degree,No,Female,Yes,Yes,No,Total service
+734,59,0.9528617610440855,0.04713823895591451,867.5230893572315,0,Zone 3,Unmarried,Some college,No,Female,No,No,No,Basic service
+735,45,0.911544816055998,0.08845518394400198,816.9455688026817,0,Zone 2,Unmarried,Some college,No,Female,No,No,No,E-service
+736,66,0.990596013928932,0.00940398607106796,916.5840645057826,0,Zone 1,Unmarried,High school degree,No,Female,No,No,No,E-service
+737,28,0.9137023698519751,0.08629763014802494,818.918591605431,0,Zone 3,Married,Did not complete high school,No,Male,No,No,Yes,Basic service
+738,15,0.8875961027467835,0.11240389725321653,787.201516452033,0,Zone 1,Married,Post-undergraduate degree,No,Male,No,No,No,Basic service
+739,39,0.9224543064128808,0.07754569358711916,829.8239477058413,0,Zone 3,Married,Some college,No,Female,Yes,No,Yes,Total service
+740,38,0.8895451528279446,0.11045484717205545,791.1452594930187,0,Zone 3,Unmarried,High school degree,No,Female,No,No,No,Plus service
+741,34,0.8224776983886996,0.17752230161130045,716.5774128698043,0,Zone 3,Unmarried,Some college,No,Female,No,Yes,No,E-service
+742,60,0.9449311195100056,0.055068880489994365,857.6361462590136,0,Zone 3,Married,Post-undergraduate degree,Yes,Male,Yes,Yes,Yes,Total service
+743,72,0.9949951862488984,0.005004813751101622,922.6443948517777,0,Zone 3,Married,Did not complete high school,Yes,Female,No,No,Yes,Plus service
+744,42,0.9269092968670476,0.0730907031329524,835.2636211282121,0,Zone 1,Married,High school degree,No,Male,Yes,No,Yes,Plus service
+745,32,0.8453284864831603,0.15467151351683972,741.4514268370226,0,Zone 3,Unmarried,High school degree,No,Male,No,No,No,Basic service
+746,48,0.8932250485444442,0.10677495145555582,795.4347854434789,0,Zone 3,Married,College degree,No,Female,Yes,Yes,No,Total service
+747,63,0.8666870255310727,0.13331297446892731,764.6041898408654,0,Zone 3,Married,College degree,No,Female,Yes,Yes,No,E-service
+748,45,0.919131588190841,0.08086841180915905,825.9830299328677,0,Zone 3,Married,Some college,No,Male,No,No,Yes,E-service
+749,68,0.9175323091864087,0.08246769081359129,824.1760614588364,0,Zone 2,Unmarried,College degree,No,Male,No,Yes,No,E-service
+750,6,0.801464443829037,0.19853555617096297,692.429661634601,0,Zone 1,Married,High school degree,No,Female,No,No,No,Basic service
+751,68,0.9694551655824549,0.030544834417545075,888.7417772290285,0,Zone 1,Married,High school degree,No,Female,Yes,Yes,Yes,Total service
+752,72,0.972502381217257,0.02749761878274304,892.7242693264523,0,Zone 3,Married,High school degree,Yes,Female,Yes,Yes,Yes,Total service
+753,53,0.9260730517316595,0.07392694826834045,834.4412469102953,0,Zone 3,Married,Some college,No,Female,No,Yes,Yes,E-service
+754,20,0.974358822121636,0.025641177878363952,893.0248816535137,0,Zone 3,Married,College degree,No,Male,No,No,Yes,Plus service
+755,70,0.9423693928685949,0.05763060713140511,854.5410838934412,0,Zone 2,Married,High school degree,No,Male,No,No,No,E-service
+756,32,0.8644452204797904,0.13555477952020956,762.6142176308565,0,Zone 3,Unmarried,High school degree,No,Female,No,Yes,No,Basic service
+757,61,0.9828268888419469,0.01717311115805309,906.1141435505699,0,Zone 2,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+758,24,0.8268549302648383,0.17314506973516175,721.5511409872402,0,Zone 1,Married,College degree,No,Male,No,Yes,No,E-service
+759,56,0.9560172679600133,0.043982732039986705,871.4438674967242,0,Zone 2,Married,Did not complete high school,Yes,Female,No,No,No,Basic service
+760,54,0.9660294086164215,0.0339705913835785,884.1231185026262,0,Zone 3,Unmarried,High school degree,No,Male,No,Yes,No,E-service
+761,43,0.8669054421632004,0.13309455783679958,765.2910030731889,0,Zone 3,Married,Some college,No,Female,Yes,Yes,No,Total service
+762,19,0.7702951116253273,0.22970488837467273,663.0537290878164,0,Zone 1,Unmarried,Some college,No,Female,Yes,Yes,Yes,Total service
+763,5,0.9648710992869907,0.03512890071300934,874.9553584674247,0,Zone 3,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+764,24,0.8708247333051655,0.12917526669483448,769.5324604656026,0,Zone 1,Married,College degree,No,Female,No,Yes,No,Basic service
+765,62,0.9370261293932554,0.06297387060674464,847.8865501605904,0,Zone 3,Married,High school degree,No,Female,No,No,No,E-service
+766,14,0.8173815656949834,0.18261843430501656,711.1231796568273,0,Zone 2,Unmarried,Post-undergraduate degree,No,Female,Yes,Yes,Yes,Total service
+767,60,0.9707818622201629,0.02921813777983706,890.3445077861621,0,Zone 3,Married,Some college,No,Female,Yes,No,Yes,Total service
+768,30,0.9923499113715923,0.007650088628407659,918.3403482073567,0,Zone 2,Married,Did not complete high school,Yes,Female,No,No,Yes,Plus service
+769,40,0.933936493656993,0.06606350634300695,843.7169003908538,0,Zone 1,Married,Some college,No,Male,No,Yes,No,E-service
+770,42,0.9424967621667565,0.057503237833243515,854.2623570497942,0,Zone 2,Married,High school degree,No,Female,No,No,No,Basic service
+771,20,0.8600602591605747,0.1399397408394253,757.3443755389296,0,Zone 1,Unmarried,Some college,No,Female,No,Yes,No,E-service
+772,4,0.8752762478789992,0.12472375212100084,767.2833015735382,0,Zone 1,Married,High school degree,No,Female,No,No,Yes,Plus service
+773,44,0.9357764921013461,0.06422350789865394,846.078589983717,0,Zone 2,Married,High school degree,No,Female,Yes,No,Yes,Total service
+774,49,0.9775489992813157,0.022451000718684333,898.932849276806,0,Zone 3,Unmarried,High school degree,Yes,Male,No,No,Yes,Plus service
+775,5,0.9357309710270859,0.06426902897291409,837.8291259842142,0,Zone 3,Married,Did not complete high school,No,Female,No,No,Yes,Plus service
+776,70,0.9892339854920449,0.010766014507955113,914.7774643399143,0,Zone 3,Married,Did not complete high school,No,Male,No,No,No,E-service
+777,30,0.9540966277259741,0.045903372274025855,868.0536442270861,0,Zone 1,Married,Did not complete high school,No,Male,No,No,No,Basic service
+778,28,0.8934446612616826,0.10655533873831735,795.3587895879995,0,Zone 2,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+779,5,0.7308075113112595,0.26919248868874046,623.5106454888967,0,Zone 1,Married,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+780,27,0.8945744434105791,0.10542555658942088,796.6023188163953,0,Zone 2,Unmarried,Did not complete high school,No,Female,Yes,No,Yes,Total service
+781,17,0.8475691973183058,0.15243080268169418,743.4599860743112,0,Zone 2,Unmarried,College degree,No,Female,No,No,No,Basic service
+782,4,0.8794394833018372,0.12056051669816281,771.8216370124691,0,Zone 1,Married,Did not complete high school,No,Female,No,No,No,Basic service
+783,30,0.7960731143220316,0.20392688567796835,688.7982828307267,0,Zone 1,Married,High school degree,No,Female,No,Yes,No,Plus service
+784,71,0.9414001584180459,0.05859984158195408,853.3445689436421,0,Zone 3,Married,College degree,No,Female,No,Yes,Yes,Total service
+785,67,0.9960442008748535,0.003955799125146542,924.0736582454431,0,Zone 3,Unmarried,Did not complete high school,Yes,Female,No,No,No,Basic service
+786,24,0.892452462840219,0.10754753715978105,793.9629074263864,0,Zone 3,Married,Did not complete high school,No,Female,No,No,No,Basic service
+787,24,0.849375196448284,0.15062480355171604,745.8609498186859,0,Zone 1,Married,Some college,No,Female,No,Yes,No,Basic service
+788,59,0.9832181180118768,0.01678188198812325,906.6047023505513,0,Zone 2,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+789,59,0.9233300624846349,0.0766699375153651,831.1660020870431,0,Zone 3,Unmarried,College degree,No,Male,No,No,No,E-service
+790,44,0.8463406458004142,0.15365935419958576,742.2499703238075,0,Zone 3,Married,College degree,No,Female,Yes,Yes,No,E-service
+791,19,0.9151830887510776,0.08481691124892243,819.6736708232162,0,Zone 1,Married,College degree,No,Male,No,No,No,E-service
+792,58,0.9060651768370207,0.0939348231629793,810.4932493052887,0,Zone 2,Married,Did not complete high school,No,Female,No,Yes,No,Basic service
+793,41,0.9886142063298209,0.011385793670179112,913.5015132637795,0,Zone 1,Married,High school degree,No,Male,No,No,No,E-service
+794,16,0.8046209890020236,0.1953790109979764,698.0663750615024,0,Zone 2,Unmarried,Some college,No,Male,Yes,No,Yes,Plus service
+795,13,0.8238410568843407,0.17615894311565927,717.713763955896,0,Zone 3,Unmarried,High school degree,No,Male,No,No,No,Basic service
+796,60,0.9710776066045844,0.02892239339541558,890.7266986478671,0,Zone 1,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+797,72,0.9841020425901916,0.015897957409808372,907.931676492837,0,Zone 2,Married,Did not complete high school,No,Female,No,No,No,E-service
+798,33,0.8578315919337136,0.1421684080662864,755.2428114342847,0,Zone 2,Unmarried,College degree,No,Female,Yes,Yes,No,Total service
+799,72,0.9710956212330398,0.02890437876696017,890.9031732486703,0,Zone 2,Married,College degree,No,Female,Yes,No,Yes,Total service
+800,66,0.9578492868407754,0.042150713159224584,873.898007293203,0,Zone 1,Married,College degree,No,Female,Yes,No,Yes,Total service
+801,53,0.9394899477768116,0.06051005222318839,850.8148796006578,0,Zone 3,Married,Did not complete high school,No,Female,No,No,Yes,Plus service
+802,22,0.8200514568167988,0.1799485431832012,714.3231668817319,0,Zone 2,Married,College degree,No,Male,No,Yes,Yes,Total service
+803,14,0.8825100989227448,0.11748990107725521,781.2594904365048,0,Zone 2,Married,High school degree,No,Female,No,No,Yes,Plus service
+804,52,0.960138054763815,0.039861945236185026,876.5740394169794,0,Zone 1,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+805,33,0.9149610239483332,0.08503897605166677,820.682473895355,0,Zone 3,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+806,72,0.9860385056460975,0.013961494353902482,910.5094403932457,0,Zone 3,Unmarried,High school degree,Yes,Female,No,No,Yes,Plus service
+807,40,0.9049806848016563,0.09501931519834372,809.1280140694681,0,Zone 1,Married,College degree,No,Female,Yes,No,Yes,Plus service
+808,29,0.7338961373687651,0.26610386263123487,625.6526654706223,0,Zone 2,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+809,63,0.9839953226016015,0.016004677398398504,907.6919769677969,0,Zone 3,Unmarried,High school degree,Yes,Male,No,No,Yes,Plus service
+810,56,0.9540109174198584,0.04598908258014156,868.9191017335332,0,Zone 2,Unmarried,Some college,No,Female,No,Yes,No,E-service
+811,60,0.977735908270883,0.02226409172911703,899.390225912162,0,Zone 3,Married,High school degree,No,Female,Yes,No,Yes,Total service
+812,28,0.8029986617641335,0.19700133823586652,696.1740986980093,0,Zone 3,Married,Some college,No,Male,No,No,No,Basic service
+813,39,0.9064099267580926,0.09359007324190738,810.788359503361,0,Zone 2,Unmarried,College degree,No,Male,No,Yes,No,E-service
+814,65,0.9631751133426449,0.03682488665735506,880.6526497272836,0,Zone 3,Married,High school degree,No,Male,No,No,Yes,Plus service
+815,29,0.8881632759190118,0.11183672408098821,789.351977848909,0,Zone 3,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+816,28,0.9062113484256201,0.09378865157437988,810.138561514808,0,Zone 3,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+817,2,0.7707588008244574,0.22924119917554264,658.3770702288083,0,Zone 1,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+818,67,0.956628202409066,0.043371797590934014,872.364771304746,0,Zone 3,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+819,5,0.8948068901322818,0.10519310986771824,790.0656900505883,0,Zone 3,Married,Some college,No,Female,No,Yes,No,Total service
+820,48,0.9167600235741257,0.08323997642587433,823.1885392817726,0,Zone 3,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+821,10,0.7869873933571869,0.21301260664281307,679.4556348399058,0,Zone 2,Married,Did not complete high school,No,Female,No,No,No,Basic service
+822,17,0.8513041661505342,0.14869583384946583,747.4969179710464,0,Zone 2,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+823,21,0.7439485765268156,0.25605142347318444,636.60765097846,0,Zone 1,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+824,25,0.8583207986858882,0.14167920131411182,755.7045128622875,0,Zone 2,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+825,44,0.8392435879239927,0.16075641207600733,734.4085970674153,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+826,59,0.9794383010830625,0.020561698916937488,901.6095192417821,0,Zone 2,Unmarried,College degree,No,Female,No,No,Yes,Total service
+827,11,0.7381758912535652,0.2618241087464348,631.6414826051662,0,Zone 2,Unmarried,High school degree,No,Male,No,No,No,Basic service
+828,50,0.986456032600006,0.013543967399993972,910.7792553633328,0,Zone 2,Married,Some college,No,Male,No,Yes,Yes,Plus service
+829,23,0.9039439466830173,0.09605605331698275,807.0999649762894,0,Zone 3,Married,Some college,No,Female,No,No,No,E-service
+830,17,0.7070146117540429,0.2929853882459571,601.3058797082007,0,Zone 1,Unmarried,High school degree,No,Female,No,Yes,No,E-service
+831,15,0.9591636549852154,0.040836345014784614,872.3588124314603,0,Zone 1,Married,Some college,No,Male,Yes,No,Yes,Plus service
+832,68,0.9960639546907216,0.00393604530927838,924.1063591253383,0,Zone 2,Married,Did not complete high school,No,Female,No,No,No,E-service
+833,69,0.9034015426472211,0.09659845735277894,807.2674308860169,0,Zone 1,Married,Some college,No,Female,No,Yes,No,Basic service
+834,30,0.8145259028873358,0.18547409711266416,708.2536401358195,0,Zone 1,Married,Did not complete high school,No,Female,No,No,No,Basic service
+835,22,0.8373649183582483,0.16263508164175167,732.7928126479924,0,Zone 3,Unmarried,High school degree,No,Male,Yes,No,No,Plus service
+836,10,0.7293927305294652,0.2706072694705348,623.1949052196052,0,Zone 2,Married,High school degree,No,Female,No,No,No,Basic service
+837,72,0.9820078583152066,0.01799214168479335,905.158030085677,0,Zone 1,Married,Some college,No,Female,No,No,No,E-service
+838,34,0.8991922146152717,0.10080778538472834,802.2333593891356,0,Zone 2,Married,College degree,No,Female,No,No,No,Plus service
+839,43,0.9762660102824502,0.023733989717549808,897.0842828089546,0,Zone 2,Married,Did not complete high school,No,Male,No,No,No,Plus service
+840,31,0.8808534813589238,0.11914651864107617,781.0866814467537,0,Zone 3,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+841,6,0.7960790843511714,0.20392091564882864,687.0497349158776,0,Zone 2,Married,College degree,No,Male,No,No,No,Basic service
+842,48,0.9547761638247816,0.04522383617521841,869.7120366854568,0,Zone 2,Unmarried,College degree,No,Male,No,No,Yes,Plus service
+843,50,0.8243527148068045,0.1756472851931955,717.8244481847876,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+844,20,0.9802655020664854,0.01973449793351456,900.9304570561009,0,Zone 3,Married,High school degree,No,Female,No,No,No,E-service
+845,61,0.9489908456551222,0.05100915434487785,862.7035791183932,0,Zone 3,Unmarried,Did not complete high school,Yes,Male,No,No,No,Basic service
+846,6,0.6218883439483753,0.37811165605162467,525.4887966937451,0,Zone 2,Unmarried,High school degree,No,Female,No,No,No,Basic service
+847,1,0.396306703638054,0.603693296361946,344.7530061173217,1,Zone 2,Unmarried,High school degree,No,Male,No,Yes,No,Basic service
+848,21,0.8407488960280199,0.15925110397198006,736.4021481134289,0,Zone 1,Unmarried,High school degree,No,Female,Yes,Yes,Yes,Total service
+849,7,0.7498494978877835,0.25015050211221646,642.3097232879614,0,Zone 3,Unmarried,College degree,No,Male,No,Yes,Yes,Total service
+850,65,0.9754079555928884,0.024592044407111602,896.4193953902068,0,Zone 3,Married,Some college,No,Female,Yes,No,Yes,Total service
+851,64,0.9125738569854481,0.08742614301455187,818.2306580558572,0,Zone 1,Unmarried,College degree,No,Female,Yes,No,Yes,E-service
+852,4,0.8455182552223635,0.15448174477763654,735.6142670947669,0,Zone 3,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+853,67,0.9803070894384764,0.019692910561523558,902.861484826394,0,Zone 1,Married,Some college,No,Female,No,No,Yes,E-service
+854,22,0.8567910702027013,0.1432089297972987,753.8941346507523,0,Zone 2,Unmarried,High school degree,No,Male,No,Yes,No,E-service
+855,51,0.9586487823383613,0.04135121766163874,874.6660145756578,0,Zone 3,Married,High school degree,No,Female,No,No,Yes,Plus service
+856,50,0.8906466765682688,0.10935332343173121,792.426137791997,0,Zone 1,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+857,31,0.9383228687899873,0.061677131210012726,848.6286200975042,0,Zone 1,Married,High school degree,No,Male,No,No,No,Basic service
+858,4,0.8333134574965503,0.16668654250344972,722.9753863172612,0,Zone 3,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+859,60,0.9234116927619698,0.07658830723803023,831.2688755269261,0,Zone 3,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+860,7,0.8653721668486751,0.13462783315132487,759.4716720565909,0,Zone 3,Married,High school degree,No,Female,No,No,No,Basic service
+861,20,0.91256025605945,0.08743974394054999,816.7585865921063,0,Zone 3,Unmarried,College degree,No,Female,No,No,No,E-service
+862,19,0.8853346219386761,0.11466537806132393,785.3563894119329,0,Zone 2,Married,Some college,No,Female,No,No,No,Plus service
+863,58,0.8722385268659865,0.12776147313401354,771.0698772755974,0,Zone 3,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+864,65,0.9410360257146041,0.058963974285395904,852.856198388431,0,Zone 3,Unmarried,Some college,No,Female,Yes,Yes,Yes,Total service
+865,72,0.9957472682083774,0.004252731791622555,923.6855592468361,0,Zone 3,Married,Did not complete high school,No,Male,No,No,No,E-service
+866,8,0.7504860787861297,0.24951392121387028,643.1776205804296,0,Zone 3,Unmarried,Some college,No,Male,Yes,Yes,Yes,Total service
+867,33,0.9100398701427709,0.08996012985722912,814.8777190903593,0,Zone 2,Married,Some college,No,Male,No,No,No,Basic service
+868,18,0.8979236050629698,0.10207639493703025,799.5102800783299,0,Zone 3,Married,High school degree,No,Female,Yes,No,Yes,Total service
+869,24,0.9192650518524454,0.08073494814755455,825.1435088885972,0,Zone 2,Married,High school degree,No,Male,No,No,Yes,Plus service
+870,70,0.9316625005564777,0.0683374994435223,841.3428369286602,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,No,E-service
+871,7,0.7285369774628325,0.2714630225371675,622.0361100572419,0,Zone 1,Unmarried,College degree,No,Male,Yes,Yes,No,Total service
+872,70,0.9819233737757809,0.018076626224219128,905.0263383625252,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+873,20,0.9685876981097427,0.031412301890257344,885.452902342374,0,Zone 2,Married,Some college,No,Female,Yes,No,Yes,Plus service
+874,54,0.9505035577732758,0.049496442226724224,864.4890783842568,0,Zone 3,Married,Did not complete high school,No,Male,No,No,No,E-service
+875,36,0.9394300306109677,0.06056996938903225,850.2611020310806,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+876,71,0.9877407528122875,0.01225924718771254,912.7781081573768,0,Zone 3,Married,College degree,No,Female,No,No,Yes,Plus service
+877,17,0.9057054698018373,0.0942945301981627,808.2780019657971,0,Zone 1,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+878,18,0.9765954326697799,0.023404567330220116,895.7118287278274,0,Zone 1,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+879,16,0.890949185665989,0.10905081433401098,791.2015328384513,0,Zone 1,Unmarried,Post-undergraduate degree,No,Female,No,No,Yes,Total service
+880,38,0.872951029821192,0.127048970178808,772.183014916102,0,Zone 3,Married,High school degree,No,Female,No,Yes,No,E-service
+881,52,0.9231829395939151,0.07681706040608494,830.9396781570402,0,Zone 1,Married,Some college,No,Female,Yes,Yes,Yes,Total service
+882,46,0.9096852785402341,0.09031472145976593,814.7528759451016,0,Zone 1,Married,Some college,No,Male,Yes,Yes,Yes,Total service
+883,31,0.9195628469480301,0.08043715305196986,826.0393564085615,0,Zone 2,Unmarried,College degree,No,Male,No,Yes,Yes,Plus service
+884,23,0.8332262064323739,0.16677379356762612,728.3662073571736,0,Zone 2,Unmarried,College degree,No,Male,No,Yes,No,E-service
+885,38,0.9798784408759859,0.020121559124014143,901.6660814885852,0,Zone 2,Married,High school degree,No,Female,No,Yes,Yes,Plus service
+886,50,0.9623359934924453,0.03766400650755475,879.3194099593447,0,Zone 2,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+887,16,0.8796804026909094,0.12031959730909059,778.5342093551291,0,Zone 2,Unmarried,High school degree,No,Male,Yes,Yes,Yes,Total service
+888,14,0.7955128618324963,0.20448713816750375,688.5974606388987,0,Zone 2,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+889,30,0.9463011812544344,0.05369881874556559,858.3554278110965,0,Zone 2,Unmarried,Some college,No,Female,No,Yes,No,E-service
+890,22,0.846140489972075,0.15385951002792497,742.2740118445431,0,Zone 3,Married,College degree,No,Female,Yes,Yes,Yes,Total service
+891,38,0.9233827232624748,0.07661727673752516,830.9048977915461,0,Zone 1,Married,High school degree,No,Male,Yes,Yes,Yes,Total service
+892,59,0.87216615699476,0.12783384300524003,770.9658770841983,0,Zone 3,Married,College degree,No,Female,No,Yes,No,E-service
+893,54,0.9124666799861487,0.08753332001385128,818.10499313809,0,Zone 2,Unmarried,Some college,No,Male,Yes,No,Yes,Plus service
+894,9,0.8112115937250877,0.18878840627491233,703.6862443225051,0,Zone 3,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+895,67,0.9917082372985832,0.00829176270141685,918.1044208802223,0,Zone 1,Married,High school degree,No,Female,No,Yes,No,E-service
+896,24,0.9003307433842104,0.09966925661578963,803.0154512117958,0,Zone 2,Unmarried,Some college,No,Female,No,No,No,Basic service
+897,12,0.9615000414425019,0.038499958557498104,874.4751805574543,0,Zone 2,Married,Did not complete high school,No,Female,No,Yes,No,E-service
+898,26,0.8628912078088498,0.13710879219115024,760.7902308471007,0,Zone 1,Unmarried,Some college,No,Male,Yes,Yes,No,E-service
+899,3,0.844880759367666,0.15511924063233395,733.547718636096,0,Zone 2,Unmarried,High school degree,No,Male,Yes,No,Yes,Total service
+900,20,0.7968942164339594,0.2031057835660406,690.1374792392276,0,Zone 2,Unmarried,Post-undergraduate degree,No,Female,Yes,Yes,Yes,Total service
+901,5,0.8647665890560549,0.13523341094394514,757.114208651964,0,Zone 3,Married,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+902,58,0.9167620040852335,0.08323799591476655,823.2519700189448,0,Zone 3,Unmarried,Some college,No,Female,Yes,Yes,Yes,Total service
+903,54,0.8571836980812807,0.1428163019187193,754.0610941939616,0,Zone 1,Married,Some college,No,Male,No,No,No,Basic service
+904,52,0.8640226176556204,0.13597738234437962,761.8427227640823,0,Zone 2,Unmarried,Some college,No,Female,No,No,No,Basic service
+905,38,0.8718391894127536,0.12816081058724638,770.9241054919551,0,Zone 2,Married,Did not complete high school,No,Female,No,No,No,Basic service
+906,19,0.8448638643120312,0.1551361356879688,740.7254342746443,0,Zone 2,Unmarried,Some college,No,Male,No,No,No,Basic service
+907,22,0.8309444779061086,0.1690555220938914,725.9077365324528,0,Zone 2,Married,Did not complete high school,No,Male,No,No,No,Basic service
+908,49,0.9604376614872618,0.03956233851273816,876.8833690105895,0,Zone 1,Married,College degree,No,Male,No,No,No,E-service
+909,5,0.8903261154435702,0.10967388455642979,785.0540266898159,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+910,18,0.9794123502251197,0.020587649774880257,899.5064214748342,0,Zone 2,Unmarried,Did not complete high school,Yes,Male,No,No,No,Basic service
+911,43,0.8822405837203109,0.11775941627968911,782.7549396156144,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+912,17,0.8090271173370066,0.1909728826629934,702.6746868368682,0,Zone 3,Unmarried,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+913,37,0.903905254058239,0.09609474594176104,807.8074415899983,0,Zone 2,Unmarried,Some college,No,Female,No,No,No,E-service
+914,8,0.7596465452266905,0.2403534547733095,652.0407423745615,0,Zone 2,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+915,51,0.9564300740103692,0.04356992598963083,871.865156935158,0,Zone 2,Married,High school degree,No,Female,No,No,Yes,Plus service
+916,71,0.9572128312491687,0.04278716875083133,873.1426261111345,0,Zone 1,Married,Did not complete high school,No,Female,Yes,No,Yes,Plus service
+917,56,0.9480254248856981,0.051974575114301924,861.4305686391572,0,Zone 1,Married,Post-undergraduate degree,No,Female,Yes,Yes,No,E-service
+918,70,0.9834751673200092,0.01652483267999083,907.0803556181786,0,Zone 3,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+919,62,0.9593777686416238,0.04062223135837617,875.7843367066874,0,Zone 1,Unmarried,Some college,No,Female,No,No,Yes,Plus service
+920,50,0.9757910357367499,0.024208964263250143,896.655279303509,0,Zone 1,Married,High school degree,No,Female,Yes,No,Yes,Total service
+921,1,0.5000943914813006,0.49990560851869936,425.341055040372,1,Zone 3,Unmarried,Post-undergraduate degree,No,Female,No,Yes,No,Basic service
+922,15,0.6711651669447103,0.3288348330552897,568.054241791069,0,Zone 3,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+923,72,0.9886775113951763,0.011322488604823655,914.0448705513132,0,Zone 3,Married,Some college,No,Female,No,No,No,E-service
+924,69,0.961617133427668,0.03838286657233203,878.7130716096076,0,Zone 2,Married,High school degree,No,Male,No,No,Yes,Plus service
+925,32,0.9335684300764001,0.06643156992359989,842.9085766606863,0,Zone 2,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+926,19,0.8533812090293672,0.1466187909706328,749.9569935006357,0,Zone 1,Married,College degree,No,Female,Yes,No,Yes,Plus service
+927,42,0.9127613936094505,0.08723860639054948,818.3434338695289,0,Zone 2,Unmarried,Some college,No,Female,Yes,Yes,No,Total service
+928,51,0.9447824777036804,0.0552175222963196,857.3145367297825,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+929,32,0.8411106841729702,0.1588893158270298,736.8352756358931,0,Zone 2,Married,High school degree,No,Female,Yes,No,Yes,Plus service
+930,26,0.9798177089016965,0.020182291098303495,900.9176236251294,0,Zone 3,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+931,39,0.9525164566138673,0.0474835433861327,866.5827219300791,0,Zone 2,Married,College degree,No,Male,Yes,No,Yes,Total service
+932,72,0.9296029273211476,0.07039707267885242,838.8256555236471,0,Zone 2,Unmarried,High school degree,No,Female,No,Yes,Yes,Total service
+933,4,0.7905330127388558,0.2094669872611442,680.0215561705112,0,Zone 2,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+934,54,0.95725826286954,0.042741737130460034,872.9722816506271,0,Zone 2,Married,College degree,No,Male,No,No,Yes,Plus service
+935,34,0.9408481518766425,0.0591518481233575,851.8977012849069,0,Zone 1,Married,College degree,No,Female,No,Yes,Yes,Total service
+936,20,0.6959502666412272,0.30404973335877283,590.2900653407476,0,Zone 1,Married,College degree,No,Female,No,Yes,Yes,Basic service
+937,14,0.8480695162319004,0.1519304837680996,743.5562198129301,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,No,Basic service
+938,61,0.9814783962336632,0.018521603766336825,904.3291194565418,0,Zone 1,Unmarried,Did not complete high school,Yes,Female,No,No,No,Plus service
+939,4,0.3632605826643642,0.6367394173356358,317.63372295128175,1,Zone 2,Unmarried,College degree,No,Male,Yes,Yes,No,Basic service
+940,16,0.9778600644196549,0.022139935580345105,897.0761469025524,0,Zone 3,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+941,13,0.8369900071662,0.16300999283380002,731.5474492491,0,Zone 1,Unmarried,High school degree,No,Female,No,No,No,Basic service
+942,53,0.930992857464905,0.06900714253509499,840.4137278594873,0,Zone 2,Married,Some college,No,Female,No,Yes,No,E-service
+943,58,0.8913786410311133,0.1086213589688867,793.2102559071308,0,Zone 2,Married,High school degree,No,Female,Yes,Yes,Yes,Total service
+944,25,0.9432048586818166,0.05679514131818342,854.0980065871354,0,Zone 2,Married,Did not complete high school,No,Female,Yes,No,No,Plus service
+945,71,0.9854277570194555,0.014572242980544492,909.6857674694727,0,Zone 1,Married,Some college,No,Male,No,No,Yes,Plus service
+946,22,0.8505294595546217,0.14947054044537833,747.0472233500744,0,Zone 1,Married,Post-undergraduate degree,No,Female,Yes,Yes,No,Total service
+947,46,0.9707323356481068,0.029267664351893208,889.9771160751578,0,Zone 1,Married,Some college,No,Male,No,No,Yes,Plus service
+948,66,0.9240230471643949,0.07597695283560513,832.02396164443,0,Zone 3,Married,Post-undergraduate degree,No,Male,No,Yes,No,E-service
+949,69,0.9651899549080771,0.03481004509192287,883.2741452964269,0,Zone 1,Married,High school degree,No,Female,Yes,Yes,Yes,Total service
+950,38,0.914894959083358,0.08510504091664195,820.78281760525,0,Zone 2,Married,College degree,No,Male,No,Yes,No,E-service
+951,16,0.8008578602447395,0.19914213975526052,694.1878546543059,0,Zone 3,Unmarried,Some college,No,Male,No,No,No,Basic service
+952,44,0.8737995885249569,0.12620041147504313,773.0974357735836,0,Zone 3,Married,High school degree,No,Male,Yes,Yes,Yes,Total service
+953,50,0.9708002707013303,0.029199729298669652,890.171250259952,0,Zone 1,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+954,10,0.6195113014038875,0.38048869859611245,522.6614799224543,0,Zone 3,Unmarried,College degree,No,Female,Yes,Yes,Yes,Total service
+955,7,0.8928739092057629,0.10712609079423707,789.724775784102,0,Zone 2,Unmarried,High school degree,No,Male,Yes,No,Yes,Total service
+956,71,0.938415734978486,0.06158426502151404,849.6521658218871,0,Zone 3,Unmarried,Some college,No,Male,No,No,Yes,Basic service
+957,16,0.8638237612152343,0.1361762387847657,760.9958616395163,0,Zone 3,Married,Did not complete high school,No,Female,No,No,No,Basic service
+958,6,0.7787741879488546,0.22122581205114544,669.9489826320039,0,Zone 3,Unmarried,High school degree,No,Female,No,No,Yes,Plus service
+959,46,0.9768028319375709,0.023197168062429108,897.8770373399667,0,Zone 2,Unmarried,High school degree,No,Male,No,No,Yes,Plus service
+960,51,0.9504051234862227,0.04959487651377725,864.3075916295957,0,Zone 3,Married,Some college,No,Male,Yes,No,Yes,Plus service
+961,5,0.7280104313713023,0.2719895686286977,620.8947834570478,0,Zone 3,Unmarried,High school degree,No,Male,Yes,No,Yes,Basic service
+962,49,0.9610907520134643,0.03890924798653572,877.712017779132,0,Zone 2,Married,High school degree,No,Female,No,No,No,Basic service
+963,49,0.9476409552330611,0.05235904476693887,860.8196453045747,0,Zone 3,Married,Post-undergraduate degree,No,Male,No,Yes,No,E-service
+964,26,0.8344099094070302,0.1655900905929698,729.64791901414,0,Zone 1,Married,Some college,No,Male,No,No,No,Basic service
+965,22,0.7809918606092267,0.21900813939077335,673.7284746458101,0,Zone 3,Unmarried,High school degree,No,Female,Yes,Yes,Yes,Total service
+966,51,0.8830199176233359,0.11698008237666413,783.5838444267403,0,Zone 3,Married,Some college,No,Male,Yes,Yes,Yes,Total service
+967,19,0.789786979844677,0.21021302015532295,682.8482334740272,0,Zone 1,Married,College degree,No,Male,Yes,Yes,Yes,Total service
+968,9,0.8094452780435782,0.19055472195642176,701.8830763772364,0,Zone 1,Unmarried,Some college,No,Female,Yes,No,Yes,Plus service
+969,15,0.7680409405408319,0.23195905945916806,660.9310564670526,0,Zone 3,Married,Some college,No,Female,No,No,No,Basic service
+970,57,0.9780410052195637,0.02195899478043628,899.7412527478857,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+971,48,0.9017788279899951,0.09822117201000491,805.4394263025956,0,Zone 3,Unmarried,Did not complete high school,No,Female,No,No,No,Basic service
+972,9,0.966952289353561,0.033047710646438966,880.3814061201451,0,Zone 2,Married,High school degree,No,Female,No,No,No,Basic service
+973,61,0.9685408776097215,0.03145912239027848,887.4707710448516,0,Zone 1,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+974,72,0.9834649935785351,0.016535006421464882,907.0864465663058,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+975,57,0.9762348516851894,0.02376514831481058,897.3771285223565,0,Zone 3,Unmarried,High school degree,Yes,Female,No,No,Yes,Plus service
+976,57,0.9173231372533313,0.08267686274666874,823.9226709220096,0,Zone 2,Unmarried,Did not complete high school,No,Male,No,Yes,No,E-service
+977,37,0.9643154601923444,0.035684539807655624,881.3961539586745,0,Zone 1,Married,Did not complete high school,No,Male,No,No,Yes,Plus service
+978,45,0.9090393746379951,0.09096062536200489,813.9783602227457,0,Zone 3,Unmarried,College degree,No,Male,No,No,No,Basic service
+979,45,0.8560755651646647,0.14392443483533535,753.0665931252032,0,Zone 3,Married,Did not complete high school,No,Female,No,Yes,No,Basic service
+980,55,0.9628911891655209,0.037108810834479145,880.134496909564,0,Zone 2,Unmarried,Did not complete high school,No,Female,No,No,Yes,Plus service
+981,24,0.8225759133555349,0.17742408664446507,716.9913942378241,0,Zone 2,Unmarried,Some college,No,Male,Yes,No,No,E-service
+982,1,0.255653329980055,0.744346670019945,238.6496080667461,1,Zone 3,Unmarried,Some college,No,Male,Yes,Yes,No,Basic service
+983,34,0.8897409207916704,0.11025907920832956,791.310192179048,0,Zone 2,Married,Did not complete high school,No,Female,No,No,Yes,Plus service
+984,14,0.8540115842555188,0.14598841574448118,749.9566930799753,0,Zone 3,Married,Some college,No,Female,No,No,No,Basic service
+985,6,0.9079849725598779,0.09201502744012213,806.0432632098837,0,Zone 3,Unmarried,Did not complete high school,No,Male,No,No,Yes,Plus service
+986,24,0.7274042877309632,0.2725957122690368,619.9561875289434,0,Zone 3,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+987,3,0.8917858242770721,0.10821417572292791,783.918140052585,0,Zone 2,Married,College degree,No,Female,Yes,No,Yes,Total service
+988,4,0.6268474965233624,0.37315250347663764,529.8032635088204,0,Zone 1,Unmarried,College degree,No,Male,Yes,Yes,Yes,Total service
+989,72,0.972098477886193,0.02790152211380703,892.2009426148409,0,Zone 1,Married,College degree,No,Male,No,No,No,E-service
+990,44,0.9446612270065866,0.05533877299341339,856.9956390430376,0,Zone 1,Unmarried,High school degree,No,Female,No,No,No,Plus service
+991,50,0.9245921473100238,0.07540785268997618,832.6171802079457,0,Zone 1,Unmarried,Some college,No,Male,No,No,Yes,Plus service
+992,61,0.9507933465188725,0.049206653481127516,864.9573566166467,0,Zone 2,Married,High school degree,No,Female,No,Yes,Yes,E-service
+993,34,0.9038388540925564,0.09616114590744362,807.6466498702534,0,Zone 1,Married,High school degree,No,Male,No,Yes,Yes,Plus service
+994,26,0.9953907978457008,0.0046092021542991635,922.5760757937255,0,Zone 3,Married,Some college,No,Female,No,No,Yes,Total service
+995,15,0.9130429956025451,0.0869570043974549,816.344336907663,0,Zone 1,Married,Post-undergraduate degree,No,Male,Yes,Yes,Yes,Total service
+996,10,0.7644523797797017,0.2355476202202983,657.1120981351986,0,Zone 3,Unmarried,Some college,No,Female,No,No,No,Basic service
+997,7,0.7394059597438948,0.2605940402561052,632.3310389888325,0,Zone 1,Unmarried,Post-undergraduate degree,No,Female,No,No,No,Basic service
+998,67,0.9671413683253481,0.03285863167465186,885.7531515352997,0,Zone 3,Unmarried,Post-undergraduate degree,No,Female,Yes,Yes,Yes,Total service
+999,70,0.942412864712904,0.057587135287096025,854.5950188174137,0,Zone 3,Unmarried,High school degree,No,Female,Yes,No,Yes,Plus service
+1000,50,0.9002101274036537,0.09978987259634631,803.5988802196761,0,Zone 3,Married,Some college,No,Female,No,Yes,No,E-service
